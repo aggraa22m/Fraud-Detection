@@ -1,7 +1,8 @@
 # Financial Fraud Detection System
 
 A comprehensive automated fraud detection system supporting multiple fraud types, including credit card fraud, tax evasion, invoice fraud, expense fraud, and GST/HST tax discrepancies. Built with machine learning and advanced pattern recognition.
-link: https://fraud-analyzer-ml.streamlit.app/
+
+## link: https://fraud-analyzer-ml.streamlit.app/
 
 ## Overview
 
