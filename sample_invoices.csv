@@ -1,0 +1,1001 @@
+invoice_number,vendor,amount,date,po_number,category,department,is_fraud
+INV1001,Acme Corp,849.86,2024-05-20,PO2679,Supplies,Sales,0
+INV1002,Acme Corp,327.87,2024-02-17,PO1434,Services,Sales,0
+INV1004,Metro Supplies,1065.86,2024-10-28,,Services,Sales,0
+INV1007,BuildMart,3962.16,2024-03-20,PO2674,Supplies,Sales,0
+INV1008,Industrial Parts Co,283.94,2024-06-25,,Maintenance,IT,0
+INV1012,Global Supplies Inc,283.95,2024-10-09,PO6925,Services,IT,0
+INV1013,Office Pro,4310.54,2024-05-28,,Supplies,Sales,0
+INV1016,Metro Supplies,1275.57,2024-11-21,PO6820,Services,Admin,0
+INV1017,Professional Services Inc,199.49,2024-11-21,PO3677,Maintenance,Sales,0
+INV1020,Quality Goods Ltd,910.36,2024-04-22,,Supplies,Operations,0
+INV1021,Industrial Parts Co,201.32,2024-07-24,PO6155,Services,Sales,0
+INV1025,Metro Supplies,200.62,2024-03-14,PO9830,Equipment,Sales,0
+INV1030,Services Unlimited,579.95,2024-07-04,,Maintenance,IT,0
+INV1031,Global Supplies Inc,22.88,2024-03-19,PO7916,Supplies,Sales,0
+INV1035,Professional Services Inc,30.34,2024-08-27,,Supplies,IT,0
+INV1040,BuildMart,173.57,2024-11-24,PO3591,Maintenance,IT,0
+INV1043,Quality Goods Ltd,88.3,2024-04-01,PO5889,Services,Operations,0
+INV1046,Tech Solutions Ltd,646.37,2024-10-03,,Supplies,Admin,0
+INV1050,Acme Corp,103.33,2024-02-27,,Equipment,Operations,0
+INV1051,Office Pro,48.5,2024-10-17,PO8962,Supplies,Operations,0
+INV1053,Metro Supplies,3635.4,2024-10-08,PO7932,Services,Operations,0
+INV1056,Services Unlimited,287.53,2024-12-09,PO9479,Maintenance,IT,0
+INV1058,Office Pro,446.43,2024-02-02,PO4770,Services,IT,0
+INV1059,Acme Corp,4624.8,2024-04-27,PO8953,Services,Operations,1
+INV1064,Professional Services Inc,178.29,2024-08-30,PO7669,Services,IT,0
+INV1065,Services Unlimited,476.46,2024-06-30,PO1887,Supplies,IT,0
+INV1069,Industrial Parts Co,71.77,2024-02-25,PO8350,Services,Sales,0
+INV1071,BuildMart,708.78,2024-08-24,,Maintenance,IT,0
+INV1072,Quality Goods Ltd,163.86,2024-01-08,,Services,Operations,0
+INV1076,Metro Supplies,260.46,2024-09-03,PO1960,Services,Sales,0
+INV1077,Services Unlimited,163.6,2024-05-15,PO5673,Maintenance,Sales,0
+INV1079,Office Pro,6492.59,2024-05-31,PO9883,Supplies,Admin,0
+INV1080,Acme Corp,395.34,2024-10-26,,Services,IT,0
+INV1085,Global Supplies Inc,9803.27,2024-04-05,PO5033,Supplies,IT,1
+INV1089,Professional Services Inc,1385.5,2024-10-16,,Services,Admin,0
+INV1091,BuildMart,64.63,2024-07-21,PO8491,Equipment,IT,0
+INV1092,Metro Supplies,551.86,2024-11-14,,Supplies,Operations,0
+INV1097,BuildMart,21.34,2024-03-08,,Services,Admin,0
+INV1100,Tech Solutions Ltd,55.02,2024-08-12,PO9666,Supplies,Admin,0
+INV1101,Tech Solutions Ltd,9587.26,2024-05-15,PO4450,Equipment,Operations,1
+INV1104,Quality Goods Ltd,1221.34,2024-09-07,,Supplies,IT,0
+INV1108,Tech Solutions Ltd,55.02,2024-01-23,PO8239,Maintenance,IT,1
+INV1109,Global Supplies Inc,339.18,2024-12-19,PO7049,Services,Sales,0
+INV1111,Acme Corp,256.81,2024-06-06,,Supplies,Admin,0
+INV1113,Office Pro,0.0,2024-12-07,,Services,Operations,1
+INV1115,Global Supplies Inc,137.03,2024-07-30,,Services,Admin,1
+INV1117,Global Supplies Inc,202.16,2024-07-14,,Services,Operations,0
+INV1121,Industrial Parts Co,1969.79,2024-06-05,,Services,IT,0
+INV1123,Services Unlimited,675.48,2024-06-17,PO5573,Equipment,Sales,0
+INV1128,Acme Corp,28.66,2024-01-15,PO5349,Supplies,IT,1
+INV1133,Services Unlimited,655.98,2024-06-25,PO9379,Supplies,Sales,0
+INV1138,Office Pro,200.0,2024-05-10,PO9821,Services,Admin,1
+INV1142,Global Supplies Inc,146.15,2024-12-06,PO3041,Equipment,Admin,0
+INV1146,Industrial Parts Co,1009.81,2024-07-25,PO4143,Maintenance,Sales,0
+INV1148,Professional Services Inc,1894.1,2024-10-18,PO1006,Equipment,Admin,0
+INV1150,Services Unlimited,1630.95,2024-10-23,PO8238,Maintenance,Operations,0
+INV1155,Metro Supplies,114.57,2024-03-27,PO6491,Supplies,Operations,0
+INV1158,Office Pro,253.71,2024-04-11,PO8784,Supplies,Sales,0
+INV1162,Professional Services Inc,663.08,2024-04-09,PO7547,Services,Operations,0
+INV1163,Global Supplies Inc,1742.92,2024-08-05,,Maintenance,IT,0
+INV1168,Office Pro,196.61,2024-03-03,,Equipment,Sales,0
+INV1173,Quality Goods Ltd,305.37,2024-08-06,PO3607,Maintenance,Sales,0
+INV1176,Office Pro,76.75,2024-11-22,PO8939,Services,Admin,0
+INV1180,Global Supplies Inc,67.07,2024-12-31,PO6238,Supplies,Operations,0
+INV1182,Office Pro,1364.83,2024-07-15,PO2052,Maintenance,Sales,0
+INV1185,Quality Goods Ltd,3085.16,2024-08-26,PO7883,Maintenance,IT,0
+INV1190,Global Supplies Inc,362.12,2024-09-01,PO7865,Services,Sales,1
+INV1192,BuildMart,1817.65,2024-08-11,PO7624,Services,Sales,0
+INV1194,Professional Services Inc,700.0,2024-09-30,PO1444,Supplies,Sales,1
+INV1196,Metro Supplies,200.0,2024-04-03,PO8449,Equipment,Admin,1
+INV1200,BuildMart,693.74,2024-08-03,PO1317,Supplies,Admin,0
+INV1202,Global Supplies Inc,933.96,2024-11-29,PO3496,Services,Operations,1
+INV1206,Global Supplies Inc,382.32,2024-10-15,PO5198,Equipment,Operations,0
+INV1211,Professional Services Inc,4217.36,2024-02-28,PO6096,Supplies,IT,0
+INV1214,Professional Services Inc,7.93,2024-12-12,PO4249,Supplies,Operations,0
+INV1215,BuildMart,1384.17,2024-12-16,PO1672,Equipment,Sales,0
+INV1218,Global Supplies Inc,459.7,2024-09-16,PO7882,Maintenance,IT,0
+INV1222,Industrial Parts Co,257.62,2024-11-21,PO3506,Maintenance,Operations,0
+INV1227,BuildMart,462.96,2024-11-11,PO8921,Maintenance,Sales,0
+INV1232,BuildMart,20.46,2024-06-14,,Supplies,Admin,0
+INV1236,Office Pro,290.18,2024-08-25,PO6511,Supplies,Sales,0
+INV1239,Tech Solutions Ltd,689.29,2024-09-06,PO6576,Equipment,Admin,0
+INV1244,Acme Corp,3702.79,2024-09-21,PO7658,Maintenance,Operations,0
+INV1248,Metro Supplies,185.41,2024-08-17,PO4630,Maintenance,Operations,0
+INV1251,Professional Services Inc,119.97,2024-07-07,PO7971,Equipment,Admin,0
+INV1255,BuildMart,190.06,2024-06-05,PO4155,Equipment,IT,0
+INV1260,Tech Solutions Ltd,1592.57,2024-04-08,PO9595,Equipment,IT,0
+INV1262,BuildMart,660.59,2024-04-26,PO9751,Services,Admin,0
+INV1263,Acme Corp,182.25,2024-10-10,,Maintenance,IT,0
+INV1264,Professional Services Inc,871.23,2024-05-25,PO4020,Supplies,Admin,0
+INV1268,Global Supplies Inc,466.67,2024-02-03,PO1878,Services,Operations,0
+INV1273,BuildMart,1724.97,2024-02-13,PO7818,Services,Sales,0
+INV1277,Metro Supplies,140.74,2024-06-01,,Equipment,IT,0
+INV1282,Global Supplies Inc,246.78,2024-04-16,PO2330,Services,Operations,0
+INV1284,Quality Goods Ltd,224.04,2024-02-08,PO8699,Equipment,IT,0
+INV1286,BuildMart,44.91,2024-12-27,,Supplies,Operations,0
+INV1289,Professional Services Inc,629.03,2024-12-04,PO2880,Services,Operations,0
+INV1292,Global Supplies Inc,596.8,2024-02-06,PO8679,Equipment,Sales,1
+INV1295,Quality Goods Ltd,406.54,2024-10-03,PO1653,Maintenance,Admin,0
+INV1300,BuildMart,9774.99,2024-01-14,PO3870,Maintenance,Sales,1
+INV1303,Tech Solutions Ltd,48.28,2024-10-26,,Supplies,Sales,0
+INV1306,Services Unlimited,214.65,2024-06-19,PO3634,Equipment,Sales,0
+INV1310,BuildMart,241.27,2024-12-05,,Supplies,Sales,0
+INV1311,Industrial Parts Co,121.1,2024-05-09,,Maintenance,IT,0
+INV1316,Global Supplies Inc,316.74,2024-07-30,PO1845,Services,Admin,1
+INV1321,Tech Solutions Ltd,739.58,2024-05-27,PO2989,Supplies,Operations,0
+INV1323,BuildMart,6800.0,2024-10-09,PO2858,Maintenance,IT,1
+INV1325,Metro Supplies,524.2,2024-05-29,PO8905,Maintenance,Operations,0
+INV1329,Quality Goods Ltd,593.67,2024-03-15,,Services,IT,0
+INV1332,Services Unlimited,360.8,2024-06-23,PO1042,Equipment,Admin,0
+INV1337,Professional Services Inc,22.69,2024-12-03,PO9824,Maintenance,Admin,0
+INV1340,Quality Goods Ltd,387.7,2024-10-05,,Services,Operations,0
+INV1345,Services Unlimited,441.57,2024-04-29,PO6213,Maintenance,Sales,0
+INV1349,Tech Solutions Ltd,16234.0,2024-09-10,PO6439,Supplies,Sales,0
+INV1350,Services Unlimited,441.57,2024-08-21,,Services,IT,1
+INV1354,BuildMart,634.17,2024-06-22,PO2315,Equipment,Sales,0
+INV1357,Metro Supplies,964.18,2024-10-04,,Services,IT,1
+INV1361,Global Supplies Inc,69.89,2024-11-20,PO3725,Equipment,IT,0
+INV1362,Industrial Parts Co,2240.01,2024-01-29,PO3385,Services,Sales,0
+INV1367,Tech Solutions Ltd,1246.26,2024-03-28,PO7267,Services,Sales,0
+INV1372,Tech Solutions Ltd,1321.53,2024-04-28,PO5183,Supplies,Sales,0
+INV1375,Global Supplies Inc,103.12,2024-03-21,PO7951,Equipment,Sales,1
+INV1378,Office Pro,3308.31,2024-07-15,PO7248,Equipment,Admin,0
+INV1381,Acme Corp,49.27,2024-12-03,PO1803,Maintenance,Admin,0
+INV1383,Professional Services Inc,972.9,2024-06-29,PO5106,Services,IT,0
+INV1384,Acme Corp,10782.54,2024-08-13,PO5835,Equipment,Sales,1
+INV1386,Office Pro,91.3,2024-03-08,,Equipment,Admin,0
+INV1388,BuildMart,172.53,2024-09-03,PO6549,Supplies,Sales,0
+INV1389,Tech Solutions Ltd,468.47,2024-04-25,PO7511,Equipment,IT,0
+INV1393,Acme Corp,189.58,2024-05-15,PO5295,Maintenance,Admin,0
+INV1394,Acme Corp,39.41,2024-08-29,PO8606,Equipment,Sales,1
+INV1395,Tech Solutions Ltd,447.13,2024-01-24,PO9071,Supplies,IT,0
+INV1397,Quality Goods Ltd,81.99,2024-03-10,PO9850,Maintenance,Operations,0
+INV1401,Global Supplies Inc,820.89,2024-09-07,,Equipment,IT,0
+INV1404,Office Pro,101.58,2024-08-15,PO6942,Supplies,Admin,0
+INV1409,Industrial Parts Co,4125.33,2024-02-01,PO3001,Maintenance,IT,0
+INV1411,Acme Corp,124.6,2024-01-11,,Services,IT,1
+INV1416,Office Pro,248.86,2024-10-27,,Equipment,Operations,0
+INV1421,Acme Corp,1366.87,2024-05-21,PO3129,Equipment,Operations,0
+INV1422,Acme Corp,1366.87,2024-03-08,PO3854,Equipment,IT,1
+INV1424,Services Unlimited,4756.9,2024-09-26,PO2786,Maintenance,Operations,1
+INV1429,Acme Corp,2866.12,2024-12-03,PO1510,Supplies,Sales,0
+INV1433,Services Unlimited,0.0,2024-12-17,PO2323,Equipment,Operations,1
+INV1434,Tech Solutions Ltd,532.16,2024-05-20,PO6327,Maintenance,Admin,0
+INV1438,Quality Goods Ltd,595.75,2024-11-05,PO2874,Services,Sales,0
+INV1442,Office Pro,1303.4,2024-07-30,PO7815,Supplies,Admin,0
+INV1446,Industrial Parts Co,63.09,2024-12-06,,Maintenance,IT,0
+INV1447,Global Supplies Inc,55.66,2024-02-17,PO7105,Services,IT,0
+INV1452,Quality Goods Ltd,882.64,2024-10-14,PO6793,Maintenance,IT,0
+INV1455,Professional Services Inc,629.85,2024-06-08,PO4485,Services,Sales,0
+INV1457,Global Supplies Inc,587.42,2024-06-28,PO5564,Services,Sales,0
+INV1462,Professional Services Inc,678.36,2024-11-10,PO5381,Supplies,Operations,0
+INV1465,BuildMart,145.47,2024-06-22,PO3347,Maintenance,IT,0
+INV1467,Acme Corp,571.57,2024-02-16,PO7878,Maintenance,Admin,0
+INV1469,Industrial Parts Co,626.16,2024-06-08,PO2391,Supplies,Operations,0
+INV1471,Professional Services Inc,138.17,2024-01-26,PO7947,Maintenance,Sales,0
+INV1475,BuildMart,6625.37,2024-04-20,PO8043,Supplies,Admin,0
+INV1480,Metro Supplies,821.19,2024-09-26,PO7475,Supplies,IT,0
+INV1482,BuildMart,67.56,2024-04-18,PO5742,Equipment,IT,0
+INV1483,Metro Supplies,1080.12,2024-08-08,PO4770,Equipment,IT,0
+INV1487,Acme Corp,4801.52,2024-08-11,PO7843,Equipment,IT,1
+INV1491,Acme Corp,1313.73,2024-06-15,,Maintenance,Admin,0
+INV1492,Services Unlimited,2293.64,2024-02-24,PO9584,Supplies,Sales,0
+INV1495,Industrial Parts Co,117.8,2024-04-23,PO9363,Supplies,Operations,0
+INV1498,Industrial Parts Co,1711.4,2024-11-26,PO3399,Equipment,Operations,0
+INV1500,Professional Services Inc,749.32,2024-03-19,PO3902,Maintenance,Sales,0
+INV1505,Professional Services Inc,1384.49,2024-08-17,,Equipment,Admin,0
+INV1507,Metro Supplies,6940.92,2024-02-04,PO5500,Supplies,Admin,0
+INV1512,Global Supplies Inc,279.2,2024-06-07,PO7041,Equipment,IT,0
+INV1513,Professional Services Inc,130.24,2024-10-31,PO1672,Maintenance,Operations,0
+INV1516,Professional Services Inc,106.24,2024-08-31,,Maintenance,IT,0
+INV1519,Global Supplies Inc,118.66,2024-09-15,PO8172,Maintenance,Operations,0
+INV1522,Industrial Parts Co,359.37,2024-05-24,PO1857,Equipment,IT,0
+INV1525,Global Supplies Inc,672.99,2024-10-12,PO3463,Equipment,IT,0
+INV1530,Tech Solutions Ltd,610.96,2024-06-28,PO7421,Services,IT,0
+INV1533,Quality Goods Ltd,1395.17,2024-07-11,PO3093,Supplies,Sales,0
+INV1538,Industrial Parts Co,411.37,2024-01-10,PO4509,Equipment,Sales,0
+INV1540,Office Pro,3569.93,2024-03-11,PO2657,Supplies,Admin,0
+INV1545,Tech Solutions Ltd,271.24,2024-11-01,PO3712,Maintenance,IT,0
+INV1549,Industrial Parts Co,23867.04,2024-12-12,,Equipment,Sales,0
+INV1551,Quality Goods Ltd,1031.22,2024-05-02,,Maintenance,Operations,0
+INV1554,Professional Services Inc,111.53,2024-08-13,PO7256,Maintenance,Operations,0
+INV1556,Professional Services Inc,80.94,2024-03-11,PO8873,Equipment,IT,0
+INV1561,Quality Goods Ltd,1031.22,2024-05-25,PO9410,Services,Sales,1
+INV1562,Office Pro,288.53,2024-08-18,,Maintenance,IT,0
+INV1566,Quality Goods Ltd,1177.33,2024-07-10,,Equipment,Operations,0
+INV1567,Industrial Parts Co,820.45,2024-02-20,PO3392,Services,IT,0
+INV1570,Metro Supplies,361.68,2024-12-22,PO8685,Maintenance,IT,0
+INV1571,Acme Corp,113.27,2024-05-11,PO9647,Maintenance,IT,0
+INV1574,Office Pro,41.58,2024-06-03,PO8489,Supplies,IT,0
+INV1578,Industrial Parts Co,820.45,2024-10-01,PO1025,Equipment,Operations,1
+INV1583,Services Unlimited,1457.68,2024-04-05,PO6908,Supplies,IT,0
+INV1587,Metro Supplies,556.21,2024-01-23,,Equipment,IT,0
+INV1590,Global Supplies Inc,62.26,2024-06-25,PO2698,Equipment,Operations,0
+INV1591,Industrial Parts Co,523.1,2024-10-06,PO8612,Maintenance,Operations,0
+INV1593,Industrial Parts Co,820.45,2024-08-22,PO1686,Equipment,Admin,1
+INV1598,Services Unlimited,107.15,2024-10-05,PO4131,Equipment,Admin,0
+INV1599,Industrial Parts Co,508.05,2024-05-19,PO7553,Maintenance,Sales,0
+INV1602,Tech Solutions Ltd,440.24,2024-09-11,PO9507,Equipment,IT,0
+INV1606,Global Supplies Inc,72.64,2024-08-08,,Equipment,Admin,0
+INV1607,Global Supplies Inc,689.99,2024-06-16,PO7981,Services,Sales,0
+INV1610,Metro Supplies,935.59,2024-01-22,,Maintenance,Admin,0
+INV1611,Global Supplies Inc,2047.91,2024-12-09,PO3621,Supplies,Operations,0
+INV1616,Metro Supplies,1960.01,2024-01-18,PO7001,Equipment,Sales,0
+INV1621,Acme Corp,51.09,2024-11-05,PO7077,Equipment,Sales,0
+INV1622,Professional Services Inc,98.82,2024-03-11,PO5566,Services,IT,0
+INV1623,Tech Solutions Ltd,873.54,2024-09-12,,Supplies,Admin,0
+INV1626,Metro Supplies,871.9,2024-04-19,PO9047,Services,IT,0
+INV1628,Global Supplies Inc,873.56,2024-08-19,PO2438,Equipment,Admin,0
+INV1629,Quality Goods Ltd,130495.92,2024-10-04,PO3580,Services,Admin,0
+INV1634,Office Pro,949.88,2024-03-03,PO4878,Maintenance,IT,0
+INV1637,Quality Goods Ltd,2215.75,2024-10-20,,Services,IT,0
+INV1638,BuildMart,1687.5,2024-07-22,PO9612,Maintenance,Sales,0
+INV1643,Global Supplies Inc,1071.79,2024-03-05,PO8372,Maintenance,Admin,0
+INV1645,Quality Goods Ltd,251.41,2024-11-23,PO3114,Maintenance,IT,0
+INV1646,Quality Goods Ltd,1259.48,2024-03-19,PO4694,Equipment,Admin,0
+INV1647,BuildMart,126.57,2024-04-10,PO3050,Equipment,IT,0
+INV1652,Tech Solutions Ltd,282.81,2024-10-30,PO6531,Supplies,IT,0
+INV1653,Acme Corp,194.8,2024-11-24,PO4453,Maintenance,IT,0
+INV1657,Quality Goods Ltd,456.15,2024-05-28,PO5012,Maintenance,Admin,0
+INV1661,Global Supplies Inc,13000.0,2024-12-18,PO8609,Services,Admin,1
+INV1666,Tech Solutions Ltd,24.51,2024-06-09,PO6658,Maintenance,Operations,0
+INV1669,Global Supplies Inc,13000.0,2024-10-14,PO8366,Services,Operations,1
+INV1670,Acme Corp,35.91,2024-05-28,,Maintenance,Operations,0
+INV1672,Industrial Parts Co,198.76,2024-10-22,PO3610,Maintenance,Sales,0
+INV1676,BuildMart,2100.0,2024-09-11,PO4944,Services,Admin,1
+INV1677,Acme Corp,444.26,2024-05-24,,Maintenance,Admin,0
+INV1682,Acme Corp,80.11,2024-02-25,,Equipment,Sales,0
+INV1685,BuildMart,2100.0,2024-07-24,PO2204,Maintenance,Sales,1
+INV1690,BuildMart,1118.11,2024-11-15,PO2584,Maintenance,Admin,0
+INV1693,Quality Goods Ltd,134.89,2024-07-06,PO9341,Maintenance,IT,0
+INV1694,Acme Corp,558.18,2024-03-11,,Maintenance,Operations,0
+INV1699,Quality Goods Ltd,431.97,2024-03-12,PO3662,Maintenance,Admin,0
+INV1704,Industrial Parts Co,151.81,2024-09-16,PO5911,Maintenance,IT,0
+INV1707,Industrial Parts Co,10100.0,2024-12-10,PO1436,Maintenance,Admin,1
+INV1712,Professional Services Inc,1044.07,2024-04-26,PO3793,Maintenance,Operations,0
+INV1714,Acme Corp,19.34,2024-10-20,PO1310,Maintenance,Admin,0
+INV1718,Tech Solutions Ltd,533.62,2024-07-30,PO8726,Supplies,Operations,0
+INV1723,Office Pro,149.5,2024-10-14,PO9609,Maintenance,Admin,0
+INV1725,Metro Supplies,1449.03,2024-09-29,PO5331,Maintenance,Operations,0
+INV1727,BuildMart,122.88,2024-10-12,,Equipment,Admin,0
+INV1729,Metro Supplies,339.64,2024-06-11,PO5480,Equipment,IT,0
+INV1734,Quality Goods Ltd,860.47,2024-07-13,PO6654,Services,Admin,0
+INV1735,BuildMart,1500.0,2024-12-31,PO8849,Services,Operations,1
+INV1740,BuildMart,66.66,2024-10-14,PO4920,Services,IT,0
+INV1745,Office Pro,244.26,2024-11-22,PO6411,Maintenance,IT,0
+INV1747,Acme Corp,197.86,2024-10-08,PO8793,Maintenance,Operations,0
+INV1750,Industrial Parts Co,151.41,2024-05-26,,Supplies,Operations,0
+INV1755,Acme Corp,5699.77,2024-03-30,,Supplies,Sales,0
+INV1759,Tech Solutions Ltd,740.61,2024-05-28,PO2758,Equipment,Admin,0
+INV1763,Quality Goods Ltd,60.87,2024-09-25,,Maintenance,Admin,0
+INV1765,Global Supplies Inc,1598.46,2024-06-18,PO5215,Services,IT,0
+INV1768,BuildMart,9732.58,2024-10-17,PO7643,Maintenance,Admin,0
+INV1769,Global Supplies Inc,1598.46,2024-12-08,PO5064,Supplies,Admin,1
+INV1773,Office Pro,41.3,2024-08-16,,Equipment,IT,0
+INV1776,Industrial Parts Co,195.13,2024-12-20,PO8625,Equipment,Operations,0
+INV1780,Quality Goods Ltd,2698.27,2024-12-26,PO5833,Equipment,Operations,0
+INV1782,Tech Solutions Ltd,139.56,2024-09-01,PO7121,Maintenance,Sales,0
+INV1787,Office Pro,785.04,2024-05-06,PO2341,Maintenance,Admin,0
+INV1788,Office Pro,785.04,2024-02-27,PO3695,Equipment,Sales,1
+INV1789,Office Pro,100.44,2024-10-25,,Maintenance,IT,0
+INV1793,Tech Solutions Ltd,368.97,2024-09-19,PO8575,Equipment,IT,0
+INV1797,BuildMart,3.12,2024-01-02,PO1742,Maintenance,Admin,0
+INV1798,Quality Goods Ltd,86.78,2024-01-31,PO8734,Supplies,Admin,0
+INV1802,Tech Solutions Ltd,276.21,2024-03-10,,Maintenance,Admin,0
+INV1806,Metro Supplies,62.07,2024-07-12,PO9835,Services,Admin,0
+INV1807,Tech Solutions Ltd,4668.61,2024-10-02,PO4648,Supplies,IT,0
+INV1810,Metro Supplies,47.22,2024-12-10,PO7214,Services,Operations,0
+INV1814,Industrial Parts Co,208.5,2024-03-20,,Supplies,IT,0
+INV1818,Professional Services Inc,490.84,2024-01-09,PO1550,Maintenance,IT,0
+INV1820,Acme Corp,3504.87,2024-07-24,PO1924,Services,Admin,0
+INV1822,Professional Services Inc,46.82,2024-06-12,PO6253,Services,Admin,0
+INV1824,Quality Goods Ltd,2309.41,2024-04-23,PO3869,Maintenance,Sales,0
+INV1825,Industrial Parts Co,409.67,2024-11-25,PO6222,Maintenance,Sales,0
+INV1827,BuildMart,92.55,2024-07-11,PO4948,Services,Admin,0
+INV1829,Metro Supplies,806.86,2024-01-30,,Services,Sales,0
+INV1831,BuildMart,543.8,2024-04-14,PO8369,Equipment,IT,0
+INV1836,Office Pro,163.97,2024-01-27,PO1647,Supplies,Operations,0
+INV1841,Quality Goods Ltd,447.96,2024-04-21,,Equipment,Admin,0
+INV1842,Office Pro,226.34,2024-04-07,PO8846,Services,Operations,0
+INV1846,Office Pro,478.32,2024-10-09,PO8639,Equipment,Admin,0
+INV1849,Industrial Parts Co,1089.2,2024-09-19,PO8692,Equipment,Operations,0
+INV1852,Quality Goods Ltd,447.96,2024-07-30,PO7841,Equipment,Operations,1
+INV1854,Industrial Parts Co,63.01,2024-04-27,,Maintenance,Admin,0
+INV1857,Metro Supplies,9892.68,2024-11-24,PO6770,Services,Operations,0
+INV1862,Metro Supplies,21.58,2024-04-04,PO1962,Supplies,IT,0
+INV1863,Acme Corp,321.28,2024-07-30,PO2113,Services,IT,0
+INV1865,Quality Goods Ltd,975.04,2024-08-21,PO8916,Maintenance,IT,0
+INV1866,Quality Goods Ltd,614.92,2024-10-09,PO5501,Equipment,IT,0
+INV1871,Services Unlimited,9304.23,2024-04-01,PO9625,Equipment,Admin,1
+INV1874,Services Unlimited,295.25,2024-02-10,PO4984,Services,Admin,0
+INV1875,Acme Corp,192.58,2024-02-17,PO8798,Supplies,IT,0
+INV1877,Global Supplies Inc,166.66,2024-09-12,PO6427,Supplies,IT,0
+INV1879,Office Pro,1442.89,2024-12-20,PO1762,Supplies,Admin,0
+INV1884,Acme Corp,689.19,2024-12-02,,Services,Sales,1
+INV1885,BuildMart,142.68,2024-03-24,PO7375,Equipment,Sales,0
+INV1887,Global Supplies Inc,1555.26,2024-09-13,PO2600,Maintenance,Operations,0
+INV1888,Industrial Parts Co,639.67,2024-11-05,,Maintenance,Admin,0
+INV1889,BuildMart,1365.52,2024-08-18,PO7150,Maintenance,Operations,0
+INV1894,Services Unlimited,1037.37,2024-02-13,PO5037,Supplies,IT,0
+INV1897,Tech Solutions Ltd,116.34,2024-07-13,PO7383,Equipment,Admin,0
+INV1898,Global Supplies Inc,174.12,2024-01-03,PO5419,Supplies,Operations,0
+INV1899,Tech Solutions Ltd,1237.61,2024-08-08,PO7685,Supplies,IT,0
+INV1900,Global Supplies Inc,1007.83,2024-10-10,PO7779,Maintenance,IT,1
+INV1905,Office Pro,390.98,2024-10-19,PO3777,Services,Admin,0
+INV1908,BuildMart,481.06,2024-09-09,PO5521,Maintenance,Admin,0
+INV1912,Global Supplies Inc,2742.15,2024-07-03,PO9123,Services,Sales,0
+INV1913,Tech Solutions Ltd,200.0,2024-06-04,PO7224,Equipment,Sales,1
+INV1916,Services Unlimited,916.58,2024-11-29,PO6253,Services,Sales,0
+INV1919,Tech Solutions Ltd,297.89,2024-07-22,PO9044,Services,Admin,0
+INV1923,BuildMart,291.05,2024-07-20,,Services,Operations,0
+INV1928,Acme Corp,2096.8,2024-08-24,PO5773,Supplies,Sales,0
+INV1932,Tech Solutions Ltd,1391.48,2024-11-20,PO3525,Maintenance,Sales,0
+INV1933,Metro Supplies,1366.85,2024-11-02,PO9300,Maintenance,IT,0
+INV1936,Quality Goods Ltd,2858.97,2024-10-31,PO5067,Equipment,Operations,0
+INV1941,Acme Corp,416.34,2024-10-15,PO7547,Equipment,Sales,0
+INV1942,Acme Corp,1122.07,2024-02-20,PO9499,Services,Sales,0
+INV1945,Services Unlimited,253.31,2024-08-25,PO9199,Services,Admin,0
+INV1946,Metro Supplies,656.06,2024-02-23,,Supplies,IT,0
+INV1948,Industrial Parts Co,331.88,2024-06-08,PO9537,Maintenance,Admin,0
+INV1952,Global Supplies Inc,466.61,2024-08-12,PO2100,Equipment,IT,0
+INV1953,Acme Corp,985.09,2024-06-24,PO3692,Services,Operations,0
+INV1958,Tech Solutions Ltd,118.23,2024-06-18,,Services,Sales,0
+INV1960,Tech Solutions Ltd,9307.55,2024-11-23,PO4232,Maintenance,Sales,0
+INV1964,Acme Corp,89.21,2024-12-26,PO2025,Supplies,Operations,0
+INV1967,Industrial Parts Co,65.28,2024-04-10,PO9019,Equipment,Sales,0
+INV1972,Global Supplies Inc,2291.97,2024-10-27,PO5873,Supplies,Operations,1
+INV1975,Global Supplies Inc,1322.78,2024-05-02,PO3316,Maintenance,Sales,0
+INV1980,Tech Solutions Ltd,1028.83,2024-10-21,PO9804,Services,Operations,0
+INV1984,BuildMart,1035.37,2024-03-12,,Supplies,Admin,0
+INV1985,Metro Supplies,396.09,2024-03-10,PO9281,Maintenance,Sales,0
+INV1989,Services Unlimited,105.02,2024-12-29,PO2354,Supplies,Operations,0
+INV1992,Acme Corp,452.01,2024-05-20,PO8492,Maintenance,IT,0
+INV1997,Global Supplies Inc,146.1,2024-05-17,,Equipment,IT,0
+INV2001,Quality Goods Ltd,1741.81,2024-04-21,PO5055,Equipment,IT,0
+INV2005,BuildMart,323.57,2024-06-27,PO2923,Services,Operations,0
+INV2010,Industrial Parts Co,116.95,2024-12-29,PO3281,Services,Operations,0
+INV2011,Professional Services Inc,249.12,2024-06-28,PO3758,Equipment,Admin,0
+INV2014,Professional Services Inc,749.49,2024-05-16,PO2560,Services,Sales,0
+INV2015,BuildMart,173.19,2024-12-01,,Services,Operations,0
+INV2018,Office Pro,117.53,2024-12-12,PO5402,Maintenance,Sales,0
+INV2022,Global Supplies Inc,581.45,2024-11-20,PO7600,Equipment,Admin,0
+INV2026,Metro Supplies,582.57,2024-06-16,,Supplies,Sales,0
+INV2029,Global Supplies Inc,188.59,2024-09-30,,Services,Sales,0
+INV2032,Industrial Parts Co,199.03,2024-05-25,PO8951,Equipment,IT,0
+INV2033,Global Supplies Inc,571.39,2024-11-16,PO3035,Services,Sales,0
+INV2037,Acme Corp,45.96,2024-08-07,PO3161,Equipment,Operations,0
+INV2040,Global Supplies Inc,48.85,2024-12-01,PO3711,Supplies,Sales,0
+INV2043,Office Pro,137.32,2024-08-07,PO1017,Services,Sales,0
+INV2044,Tech Solutions Ltd,292.9,2024-10-30,PO1152,Supplies,Admin,0
+INV2045,Services Unlimited,643.14,2024-12-21,PO7276,Supplies,IT,0
+INV2046,Industrial Parts Co,3688.72,2024-07-07,PO3181,Services,IT,0
+INV2051,Professional Services Inc,1460.43,2024-01-05,PO6753,Services,Operations,0
+INV2055,Professional Services Inc,317.38,2024-12-17,PO2646,Services,IT,0
+INV2060,Services Unlimited,392.08,2024-06-28,PO3290,Services,Admin,0
+INV2061,Office Pro,89.68,2024-10-10,PO5668,Supplies,Admin,0
+INV2063,Quality Goods Ltd,392.38,2024-11-06,PO5842,Supplies,Operations,0
+INV2067,Services Unlimited,261.65,2024-02-27,PO2163,Supplies,Admin,0
+INV2070,Tech Solutions Ltd,654.64,2024-07-17,PO6986,Services,Sales,0
+INV2071,Acme Corp,116.65,2024-10-27,PO1990,Maintenance,Admin,1
+INV2076,Services Unlimited,879.21,2024-08-04,PO9791,Services,Admin,0
+INV2077,BuildMart,4020.29,2024-02-10,PO3545,Equipment,Sales,0
+INV2082,Global Supplies Inc,342.7,2024-06-07,PO4909,Supplies,Operations,0
+INV2083,Services Unlimited,736.99,2024-02-29,PO6067,Services,IT,0
+INV2084,Tech Solutions Ltd,1100.0,2024-12-25,,Equipment,Operations,1
+INV2087,Tech Solutions Ltd,221.0,2024-05-17,PO1480,Equipment,Sales,0
+INV2090,Quality Goods Ltd,564.61,2024-02-02,,Supplies,Sales,0
+INV2094,Tech Solutions Ltd,1100.0,2024-07-03,PO2685,Supplies,Operations,1
+INV2099,Acme Corp,467.09,2024-01-23,PO1753,Maintenance,Admin,0
+INV2103,Tech Solutions Ltd,126.53,2024-04-01,,Maintenance,Operations,0
+INV2106,Office Pro,418.54,2024-08-01,PO2276,Equipment,IT,0
+INV2111,Acme Corp,851.5,2024-04-01,PO1752,Maintenance,IT,0
+INV2115,BuildMart,3557.15,2024-06-08,PO1130,Equipment,Operations,0
+INV2118,Professional Services Inc,1700.89,2024-06-04,PO7033,Maintenance,Operations,0
+INV2123,Office Pro,10200.0,2024-03-18,PO9872,Equipment,IT,1
+INV2126,Acme Corp,127.61,2024-12-02,PO6038,Supplies,Operations,0
+INV2131,Office Pro,1492.91,2024-08-02,PO3332,Equipment,IT,0
+INV2132,Office Pro,531.13,2024-09-23,,Maintenance,IT,0
+INV2137,Global Supplies Inc,10771.99,2024-09-15,,Supplies,IT,0
+INV2141,Tech Solutions Ltd,120.01,2024-05-01,,Maintenance,Admin,0
+INV2144,Metro Supplies,114.48,2024-05-19,,Services,IT,0
+INV2146,Global Supplies Inc,164.17,2024-03-25,PO2978,Equipment,Operations,0
+INV2150,BuildMart,16.68,2024-08-25,PO3582,Equipment,IT,0
+INV2152,Metro Supplies,114.48,2024-03-16,PO1802,Equipment,Admin,1
+INV2154,Acme Corp,129.19,2024-07-26,PO5093,Supplies,Sales,0
+INV2155,Global Supplies Inc,164.17,2024-03-03,PO7563,Equipment,IT,1
+INV2160,Professional Services Inc,673.6,2024-05-12,PO2056,Services,Sales,0
+INV2162,Global Supplies Inc,6729.5,2024-06-18,,Supplies,Operations,0
+INV2167,Services Unlimited,1678.47,2024-07-21,PO7990,Services,Admin,0
+INV2169,Tech Solutions Ltd,169.8,2024-05-20,,Supplies,Operations,0
+INV2172,Metro Supplies,104.83,2024-07-29,PO2437,Equipment,Sales,0
+INV2174,Services Unlimited,843.77,2024-04-12,PO5082,Supplies,Sales,0
+INV2177,Metro Supplies,55.68,2024-10-05,PO9231,Equipment,Sales,0
+INV2180,Tech Solutions Ltd,6292.97,2024-01-14,PO5602,Supplies,Sales,0
+INV2185,Industrial Parts Co,2366.48,2024-10-26,,Supplies,Operations,0
+INV2187,BuildMart,199.58,2024-09-30,,Supplies,Operations,0
+INV2192,Services Unlimited,30.89,2024-06-30,,Services,Operations,0
+INV2194,Professional Services Inc,3074.23,2024-06-11,PO1462,Equipment,Operations,0
+INV2199,Office Pro,339.74,2024-09-09,PO1621,Supplies,IT,0
+INV2201,Professional Services Inc,2600.0,2024-04-22,PO4300,Services,Admin,1
+INV2203,BuildMart,199.58,2024-01-31,,Equipment,IT,1
+INV2206,Global Supplies Inc,164.18,2024-10-27,PO3580,Maintenance,Sales,1
+INV2209,Tech Solutions Ltd,406.61,2024-12-28,PO6846,Services,Operations,0
+INV2213,BuildMart,432.88,2024-12-18,PO1029,Maintenance,IT,0
+INV2215,Professional Services Inc,205.39,2024-06-11,,Services,IT,0
+INV2219,Tech Solutions Ltd,1026.87,2024-06-18,PO6234,Services,IT,0
+INV2222,Metro Supplies,81.33,2024-01-06,PO2110,Equipment,Admin,0
+INV2223,Acme Corp,325.85,2024-01-25,PO3725,Maintenance,Sales,0
+INV2227,Industrial Parts Co,483.21,2024-10-06,,Services,Operations,0
+INV2231,Global Supplies Inc,872.76,2024-01-18,PO2715,Supplies,Admin,0
+INV2233,Services Unlimited,1173.12,2024-03-23,PO2525,Equipment,Sales,0
+INV2234,Services Unlimited,74.67,2024-11-30,,Services,IT,0
+INV2235,Industrial Parts Co,40.4,2024-04-15,PO9849,Equipment,Admin,0
+INV2238,Office Pro,2700.0,2024-02-19,PO6911,Supplies,Sales,1
+INV2239,BuildMart,664.13,2024-12-04,PO2589,Supplies,Operations,0
+INV2241,BuildMart,131.27,2024-02-11,PO7512,Maintenance,Sales,0
+INV2244,Global Supplies Inc,4132.87,2024-11-24,PO7249,Equipment,Operations,0
+INV2248,Acme Corp,479.87,2024-05-14,PO5400,Supplies,Operations,0
+INV2249,Global Supplies Inc,2365.98,2024-12-08,PO4727,Supplies,Sales,0
+INV2254,Services Unlimited,446.43,2024-10-01,,Services,Sales,0
+INV2257,Global Supplies Inc,8876.14,2024-07-21,PO9226,Services,IT,0
+INV2261,Tech Solutions Ltd,5613.96,2024-03-26,,Services,IT,0
+INV2265,Global Supplies Inc,277.7,2024-12-15,,Services,Admin,0
+INV2268,Global Supplies Inc,1732.56,2024-02-14,PO6343,Equipment,Sales,0
+INV2269,Professional Services Inc,1062.16,2024-10-27,PO7790,Services,Operations,0
+INV2274,Professional Services Inc,3143.04,2024-10-25,,Supplies,IT,0
+INV2277,Quality Goods Ltd,94.88,2024-06-25,PO8955,Maintenance,IT,0
+INV2279,BuildMart,1128.99,2024-07-25,PO7581,Supplies,Sales,0
+INV2282,Office Pro,1973.64,2024-01-26,,Equipment,IT,0
+INV2285,BuildMart,28.84,2024-06-08,PO2609,Services,Operations,0
+INV2288,Metro Supplies,68.38,2024-06-13,PO2462,Services,Sales,0
+INV2290,Services Unlimited,18.94,2024-09-05,,Supplies,Operations,0
+INV2291,BuildMart,269.32,2024-12-29,PO9589,Supplies,Operations,0
+INV2293,Office Pro,1183.6,2024-01-30,PO6904,Services,Admin,0
+INV2296,Metro Supplies,3841.18,2024-09-15,,Supplies,Operations,0
+INV2299,Metro Supplies,450.85,2024-10-31,,Maintenance,Admin,0
+INV2302,Tech Solutions Ltd,4642.11,2024-05-12,PO5670,Supplies,Sales,0
+INV2303,Tech Solutions Ltd,50.9,2024-10-19,PO4626,Services,Operations,0
+INV2306,Services Unlimited,4919.03,2024-09-19,PO1138,Services,Admin,1
+INV2311,BuildMart,371.18,2024-12-30,PO7943,Maintenance,Admin,0
+INV2315,BuildMart,717.73,2024-04-21,PO7506,Supplies,IT,0
+INV2320,Industrial Parts Co,384.12,2024-10-14,PO5890,Supplies,Sales,0
+INV2321,Industrial Parts Co,18.15,2024-05-21,,Equipment,Admin,0
+INV2323,Tech Solutions Ltd,352.95,2024-09-21,,Maintenance,Admin,0
+INV2325,Acme Corp,57.01,2024-12-01,PO7857,Maintenance,Sales,0
+INV2326,Professional Services Inc,1101.59,2024-12-28,,Equipment,Operations,0
+INV2331,Metro Supplies,699.17,2024-12-09,PO3785,Services,Admin,0
+INV2332,Metro Supplies,98.51,2024-03-06,PO3999,Equipment,IT,0
+INV2334,Industrial Parts Co,186.64,2024-04-24,PO6428,Equipment,Admin,0
+INV2339,BuildMart,82.37,2024-08-25,PO2166,Maintenance,Operations,0
+INV2344,Global Supplies Inc,367.23,2024-12-14,PO1885,Services,Operations,0
+INV2346,Industrial Parts Co,1690.39,2024-07-28,,Maintenance,Operations,0
+INV2349,Tech Solutions Ltd,91.97,2024-02-11,PO3897,Equipment,IT,0
+INV2350,Metro Supplies,859.26,2024-05-20,PO3595,Maintenance,IT,0
+INV2352,Professional Services Inc,182.11,2024-08-10,PO8821,Maintenance,IT,0
+INV2353,Quality Goods Ltd,122.82,2024-04-12,,Equipment,Operations,0
+INV2354,Acme Corp,343.59,2024-11-16,PO6641,Equipment,Operations,0
+INV2355,Services Unlimited,85.38,2024-09-14,PO1749,Equipment,Admin,0
+INV2359,Quality Goods Ltd,175.83,2024-11-01,PO3192,Equipment,Sales,0
+INV2362,Office Pro,66.9,2024-03-25,,Maintenance,IT,0
+INV2364,Office Pro,7685.48,2024-03-08,PO9267,Services,IT,0
+INV2367,Acme Corp,425.34,2024-07-11,PO9761,Supplies,IT,0
+INV2368,Acme Corp,141.23,2024-01-25,PO7230,Supplies,Admin,0
+INV2372,Tech Solutions Ltd,556.11,2024-04-15,PO5933,Maintenance,IT,0
+INV2377,BuildMart,340.87,2024-11-14,PO2718,Supplies,Admin,0
+INV2378,Global Supplies Inc,289.61,2024-09-11,PO5308,Services,Admin,0
+INV2382,BuildMart,1000.0,2024-03-23,,Maintenance,Admin,1
+INV2384,Acme Corp,1256.72,2024-01-07,,Maintenance,Operations,0
+INV2385,Quality Goods Ltd,182.04,2024-02-08,PO5192,Services,Sales,0
+INV2388,BuildMart,340.87,2024-08-25,,Equipment,Admin,1
+INV2392,Global Supplies Inc,267.05,2024-02-18,,Supplies,Operations,0
+INV2394,Industrial Parts Co,12.77,2024-07-02,,Equipment,IT,0
+INV2397,Industrial Parts Co,0.0,2024-04-03,,Equipment,Sales,1
+INV2401,Services Unlimited,3134.77,2024-11-28,PO3171,Supplies,Operations,0
+INV2402,Services Unlimited,4757.38,2024-10-29,PO8178,Services,Sales,0
+INV2405,Professional Services Inc,277.67,2024-01-15,,Services,Sales,0
+INV2409,Global Supplies Inc,957.99,2024-07-29,PO6148,Supplies,Operations,0
+INV2412,Quality Goods Ltd,643.47,2024-09-24,PO8091,Services,Sales,0
+INV2415,Services Unlimited,40876.93,2024-03-17,PO1894,Supplies,Operations,0
+INV2420,Metro Supplies,2163.24,2024-09-10,PO9055,Equipment,Operations,0
+INV2423,BuildMart,332.99,2024-01-26,PO7203,Maintenance,Operations,0
+INV2424,Metro Supplies,96.23,2024-08-15,PO9166,Maintenance,Admin,0
+INV2425,Metro Supplies,0.0,2024-11-30,PO9996,Supplies,IT,1
+INV2430,Professional Services Inc,547.41,2024-11-22,PO4389,Maintenance,Admin,0
+INV2433,Acme Corp,129.73,2024-04-24,PO8751,Equipment,Sales,0
+INV2434,Global Supplies Inc,47.78,2024-12-03,PO5783,Equipment,IT,0
+INV2435,Tech Solutions Ltd,152.95,2024-09-09,PO7704,Supplies,Admin,0
+INV2440,Office Pro,79.65,2024-04-06,,Services,Sales,0
+INV2442,Industrial Parts Co,5068.06,2024-02-25,PO3018,Maintenance,Sales,0
+INV2447,Quality Goods Ltd,1513.92,2024-03-09,PO1795,Maintenance,Sales,0
+INV2452,Tech Solutions Ltd,398.63,2024-12-20,PO3103,Supplies,Sales,0
+INV2457,Professional Services Inc,3714.19,2024-06-13,PO5067,Equipment,Sales,0
+INV2460,BuildMart,453.07,2024-08-19,PO9393,Equipment,Admin,0
+INV2465,Office Pro,110.84,2024-04-12,PO6657,Services,Operations,0
+INV2470,Quality Goods Ltd,3962.72,2024-12-21,PO6771,Maintenance,Sales,0
+INV2475,BuildMart,905.39,2024-08-04,PO1414,Maintenance,Operations,0
+INV2476,Acme Corp,85.13,2024-04-12,PO5695,Equipment,Operations,0
+INV2477,BuildMart,303.23,2024-04-14,PO8415,Supplies,Operations,0
+INV2482,Services Unlimited,108.48,2024-05-01,PO5712,Supplies,Sales,0
+INV2486,Services Unlimited,50.69,2024-12-16,PO1212,Equipment,Operations,0
+INV2491,Metro Supplies,1618.52,2024-04-25,PO7025,Services,Operations,0
+INV2494,Metro Supplies,7073.6,2024-03-31,PO3847,Supplies,Sales,0
+INV2495,Services Unlimited,49.51,2024-05-22,PO5178,Supplies,Admin,0
+INV2499,Tech Solutions Ltd,938.66,2024-01-21,PO1833,Equipment,Sales,0
+INV2504,Acme Corp,152.02,2024-07-02,,Supplies,Operations,1
+INV2508,Quality Goods Ltd,194.28,2024-10-01,PO4495,Equipment,Admin,0
+INV2511,BuildMart,165.9,2024-04-21,PO8780,Supplies,IT,0
+INV2514,Metro Supplies,110.39,2024-05-03,PO4994,Supplies,Admin,0
+INV2518,Global Supplies Inc,433.89,2024-07-16,PO1404,Equipment,Sales,0
+INV2522,Acme Corp,116.0,2024-05-31,PO9419,Supplies,IT,0
+INV2524,Quality Goods Ltd,966.92,2024-09-30,PO7950,Supplies,Operations,1
+INV2529,Services Unlimited,374.14,2024-11-27,PO3519,Supplies,Sales,0
+INV2532,Acme Corp,116.0,2024-02-14,PO4729,Equipment,Sales,1
+INV2536,Metro Supplies,103.41,2024-11-18,PO7381,Supplies,IT,0
+INV2541,Global Supplies Inc,4924.82,2024-10-26,PO5937,Supplies,Admin,1
+INV2545,Services Unlimited,1252.74,2024-07-21,PO3561,Services,Operations,0
+INV2549,Quality Goods Ltd,855.23,2024-05-31,PO7113,Supplies,Operations,0
+INV2550,Acme Corp,93.1,2024-01-03,PO9970,Supplies,Admin,0
+INV2552,Industrial Parts Co,468.25,2024-04-18,PO9397,Services,Operations,0
+INV2554,Office Pro,1245.24,2024-11-11,PO3971,Supplies,Sales,0
+INV2559,Global Supplies Inc,32.98,2024-05-28,PO4234,Maintenance,Admin,0
+INV2562,Tech Solutions Ltd,911.45,2024-12-09,PO2143,Services,Admin,0
+INV2566,Metro Supplies,149.32,2024-06-17,PO3496,Equipment,Admin,0
+INV2570,Tech Solutions Ltd,949.46,2024-01-03,PO8145,Equipment,Admin,0
+INV2572,Industrial Parts Co,128.39,2024-09-02,PO6004,Maintenance,IT,0
+INV2574,Professional Services Inc,26.91,2024-02-11,,Services,Operations,0
+INV2577,Global Supplies Inc,35.12,2024-02-08,,Supplies,Sales,0
+INV2582,Office Pro,433.6,2024-01-19,PO9842,Maintenance,Operations,0
+INV2585,Services Unlimited,595.61,2024-04-24,PO5767,Services,Sales,0
+INV2590,Quality Goods Ltd,103.91,2024-02-16,PO4913,Services,Operations,0
+INV2594,Tech Solutions Ltd,1051.41,2024-04-01,PO3395,Maintenance,Admin,0
+INV2595,Office Pro,33.37,2024-09-06,PO4834,Supplies,Operations,0
+INV2600,Industrial Parts Co,365.36,2024-07-17,PO1760,Supplies,Admin,0
+INV2601,Quality Goods Ltd,65.59,2024-11-20,,Equipment,Operations,0
+INV2605,Services Unlimited,151.75,2024-07-06,,Supplies,Admin,0
+INV2609,Office Pro,433.16,2024-09-21,,Equipment,Sales,0
+INV2613,Professional Services Inc,110.98,2024-01-04,PO3713,Services,IT,0
+INV2618,BuildMart,226.6,2024-04-18,PO2938,Services,Sales,0
+INV2621,Global Supplies Inc,1825.19,2024-09-03,PO3641,Maintenance,IT,0
+INV2623,Acme Corp,169.81,2024-03-06,PO9399,Supplies,Operations,0
+INV2624,Tech Solutions Ltd,1413.1,2024-05-12,PO7642,Supplies,Admin,0
+INV2625,Office Pro,74.1,2024-08-17,PO8891,Services,Operations,0
+INV2629,Professional Services Inc,893.11,2024-03-14,,Services,Admin,0
+INV2631,Industrial Parts Co,3506.43,2024-08-20,PO7196,Maintenance,Operations,0
+INV2632,Acme Corp,9.9,2024-04-13,,Maintenance,Operations,0
+INV2637,Global Supplies Inc,122.08,2024-03-31,PO1639,Supplies,IT,0
+INV2641,Tech Solutions Ltd,958.73,2024-11-04,PO8069,Maintenance,Admin,0
+INV2642,Quality Goods Ltd,297.51,2024-08-07,,Maintenance,Admin,0
+INV2647,Professional Services Inc,703.96,2024-02-20,PO4809,Supplies,Admin,0
+INV2652,Quality Goods Ltd,163.04,2024-07-28,PO1116,Supplies,IT,0
+INV2656,Office Pro,459.38,2024-12-18,PO2746,Services,Sales,0
+INV2661,BuildMart,319.41,2024-05-13,PO6990,Equipment,Sales,0
+INV2663,Services Unlimited,2325.46,2024-10-09,PO7065,Maintenance,Admin,0
+INV2666,Professional Services Inc,590.89,2024-06-25,PO3262,Supplies,Operations,0
+INV2670,Tech Solutions Ltd,669.41,2024-02-21,PO6544,Supplies,Operations,0
+INV2674,Acme Corp,217.5,2024-02-16,PO8133,Supplies,IT,0
+INV2677,Office Pro,9469.03,2024-07-08,,Equipment,IT,1
+INV2679,Acme Corp,210.85,2024-08-12,PO9364,Services,Operations,1
+INV2680,Industrial Parts Co,729.0,2024-05-02,,Supplies,Admin,0
+INV2684,Industrial Parts Co,214.55,2024-12-08,PO9482,Supplies,IT,0
+INV2685,Quality Goods Ltd,623.07,2024-05-25,PO6703,Equipment,Admin,0
+INV2687,Professional Services Inc,9073.39,2024-04-09,PO1076,Equipment,Operations,0
+INV2691,Quality Goods Ltd,1490.23,2024-02-24,PO6570,Supplies,Admin,0
+INV2696,Professional Services Inc,247.39,2024-05-08,,Maintenance,Operations,0
+INV2699,Metro Supplies,2445.05,2024-12-14,PO1448,Maintenance,IT,0
+INV2702,Global Supplies Inc,218.74,2024-07-14,,Services,Admin,0
+INV2706,Industrial Parts Co,18.97,2024-09-21,PO5314,Services,Admin,0
+INV2707,Services Unlimited,88.93,2024-12-10,PO3924,Maintenance,Admin,0
+INV2710,Office Pro,24.38,2024-10-20,,Services,Sales,0
+INV2712,Office Pro,238.11,2024-05-03,PO4322,Services,Admin,0
+INV2714,Global Supplies Inc,414.73,2024-03-02,PO9071,Supplies,IT,0
+INV2718,Industrial Parts Co,4987.33,2024-11-13,,Equipment,Sales,0
+INV2720,Quality Goods Ltd,658.78,2024-05-23,PO3101,Supplies,Sales,0
+INV2724,Quality Goods Ltd,290.43,2024-01-17,PO3863,Maintenance,IT,0
+INV2729,Metro Supplies,1399.83,2024-06-10,PO4452,Maintenance,IT,0
+INV2732,Industrial Parts Co,14.63,2024-11-09,PO5306,Services,Admin,0
+INV2736,Professional Services Inc,574.46,2024-06-24,PO4449,Maintenance,Admin,0
+INV2739,Services Unlimited,1282.16,2024-05-23,PO4744,Supplies,Admin,0
+INV2741,Quality Goods Ltd,43.91,2024-08-09,PO3450,Maintenance,IT,0
+INV2743,Services Unlimited,2243.14,2024-09-12,,Equipment,Sales,0
+INV2746,BuildMart,670.31,2024-10-14,PO2621,Services,IT,0
+INV2748,BuildMart,216.39,2024-08-31,PO6483,Equipment,Admin,0
+INV2751,Quality Goods Ltd,1042.29,2024-10-12,PO1324,Maintenance,IT,0
+INV2754,Professional Services Inc,12161.61,2024-04-11,PO9821,Services,Admin,0
+INV2757,Industrial Parts Co,529.96,2024-12-10,PO8322,Supplies,Sales,0
+INV2762,BuildMart,585.42,2024-08-25,PO3745,Equipment,Sales,0
+INV2767,Professional Services Inc,202.54,2024-07-26,PO3654,Equipment,Operations,0
+INV2770,Industrial Parts Co,112.76,2024-11-30,PO7479,Equipment,Sales,0
+INV2773,Professional Services Inc,1401.79,2024-09-23,PO4012,Supplies,Operations,0
+INV2775,BuildMart,111.71,2024-12-24,PO7505,Supplies,IT,0
+INV2776,Metro Supplies,400.0,2024-10-07,PO2363,Supplies,Admin,1
+INV2781,Tech Solutions Ltd,197.06,2024-02-13,,Equipment,Operations,0
+INV2783,BuildMart,827.55,2024-08-14,PO3795,Supplies,IT,0
+INV2786,Industrial Parts Co,665.47,2024-08-31,,Equipment,Sales,0
+INV2788,Quality Goods Ltd,1912.77,2024-03-31,PO8126,Equipment,Admin,0
+INV2792,Quality Goods Ltd,187.72,2024-04-26,PO6992,Maintenance,Admin,0
+INV2794,Industrial Parts Co,665.47,2024-01-06,PO9767,Supplies,Sales,1
+INV2798,BuildMart,92.93,2024-01-05,PO4788,Supplies,Admin,0
+INV2800,Services Unlimited,207.17,2024-10-14,PO7385,Maintenance,Operations,0
+INV2803,Global Supplies Inc,710.49,2024-08-04,PO5454,Equipment,Admin,0
+INV2807,Office Pro,1255.74,2024-02-05,PO8460,Maintenance,Admin,0
+INV2812,Metro Supplies,101.16,2024-04-06,PO9764,Supplies,Operations,0
+INV2813,BuildMart,1486.84,2024-05-17,PO1134,Services,IT,0
+INV2815,Acme Corp,3082.38,2024-09-09,PO9165,Equipment,Sales,0
+INV2816,Industrial Parts Co,750.06,2024-02-11,,Supplies,Admin,0
+INV2820,Global Supplies Inc,6735.81,2024-10-05,PO5097,Maintenance,IT,0
+INV2821,Office Pro,126.38,2024-07-16,PO1549,Services,Sales,0
+INV2822,Quality Goods Ltd,62.37,2024-12-06,PO6113,Equipment,Operations,0
+INV2823,Quality Goods Ltd,27.99,2024-09-23,PO5895,Services,Admin,0
+INV2824,Office Pro,3804.98,2024-02-27,PO1246,Services,Admin,0
+INV2829,Global Supplies Inc,1076.58,2024-07-21,PO1688,Maintenance,Operations,0
+INV2832,Global Supplies Inc,371.16,2024-05-07,PO6544,Supplies,IT,0
+INV2835,Tech Solutions Ltd,613.97,2024-12-25,PO8992,Services,Admin,0
+INV2840,Industrial Parts Co,74.57,2024-08-12,PO7189,Equipment,Operations,0
+INV2843,Acme Corp,15813.64,2024-09-05,PO9892,Maintenance,Operations,0
+INV2848,Tech Solutions Ltd,489.72,2024-10-05,PO5510,Services,IT,0
+INV2853,Tech Solutions Ltd,475.37,2024-08-18,PO7014,Maintenance,IT,0
+INV2858,Services Unlimited,1198.29,2024-04-04,PO6965,Services,Admin,0
+INV2859,Quality Goods Ltd,830.07,2024-07-17,PO3525,Equipment,Admin,0
+INV2863,Industrial Parts Co,978.46,2024-02-26,PO1512,Services,IT,1
+INV2867,Office Pro,100.0,2024-02-20,PO9615,Equipment,IT,1
+INV2870,Office Pro,818.28,2024-11-06,PO4419,Maintenance,IT,0
+INV2874,Acme Corp,6788.85,2024-07-03,,Maintenance,Admin,0
+INV2875,Professional Services Inc,3035.5,2024-05-16,PO5979,Supplies,Operations,0
+INV2880,Global Supplies Inc,4401.85,2024-02-21,PO4104,Services,Operations,0
+INV2885,Tech Solutions Ltd,187.39,2024-10-12,PO2728,Equipment,Sales,0
+INV2889,Global Supplies Inc,91.43,2024-03-26,PO9268,Equipment,Operations,0
+INV2894,Professional Services Inc,334.06,2024-08-14,,Equipment,Admin,0
+INV2898,Services Unlimited,438.6,2024-06-14,PO4504,Maintenance,Admin,0
+INV2901,Metro Supplies,2082.42,2024-08-17,PO1567,Equipment,IT,0
+INV2906,Global Supplies Inc,91.43,2024-06-03,,Supplies,Admin,1
+INV2911,Quality Goods Ltd,4001.1,2024-10-11,PO2544,Supplies,Sales,0
+INV2914,Tech Solutions Ltd,318.3,2024-03-11,,Services,Operations,0
+INV2917,BuildMart,212.66,2024-02-17,PO4562,Supplies,Admin,0
+INV2921,Tech Solutions Ltd,88.4,2024-09-06,PO2562,Equipment,IT,0
+INV2926,Services Unlimited,33.71,2024-02-10,,Equipment,Admin,0
+INV2930,Services Unlimited,1386.8,2024-03-02,PO1187,Maintenance,IT,0
+INV2933,Quality Goods Ltd,450.33,2024-01-22,PO6354,Services,Operations,0
+INV2934,Services Unlimited,58.27,2024-08-16,PO2475,Services,Sales,0
+INV2937,Services Unlimited,57.82,2024-03-16,PO1807,Maintenance,Admin,0
+INV2938,Services Unlimited,243.79,2024-09-13,PO3209,Maintenance,Operations,0
+INV2942,Services Unlimited,4932.16,2024-11-29,PO9589,Services,Operations,0
+INV2943,BuildMart,273.31,2024-08-08,,Supplies,IT,0
+INV2947,Services Unlimited,42.32,2024-07-06,PO1396,Equipment,Operations,0
+INV2950,Professional Services Inc,279.05,2024-08-14,PO4825,Services,Admin,0
+INV2952,Global Supplies Inc,267.98,2024-02-27,PO3419,Equipment,IT,0
+INV2955,Global Supplies Inc,7.06,2024-06-05,PO4424,Services,Operations,0
+INV2960,Quality Goods Ltd,371.87,2024-05-12,PO3315,Supplies,Sales,0
+INV2965,Quality Goods Ltd,285.32,2024-01-23,PO4288,Equipment,IT,0
+INV2969,Acme Corp,1146.32,2024-02-04,PO6901,Supplies,IT,0
+INV2972,Services Unlimited,6460.32,2024-04-28,PO2631,Equipment,Sales,0
+INV2977,Quality Goods Ltd,2186.04,2024-02-15,PO8503,Supplies,IT,0
+INV2979,Quality Goods Ltd,269.53,2024-06-05,PO3572,Supplies,Admin,0
+INV2982,Industrial Parts Co,76.72,2024-11-16,,Equipment,IT,0
+INV2985,Services Unlimited,19149.65,2024-01-16,,Services,Operations,0
+INV2988,Services Unlimited,440.9,2024-12-02,PO9531,Services,Sales,0
+INV2990,Professional Services Inc,411.95,2024-03-19,PO6395,Maintenance,Operations,0
+INV2992,Tech Solutions Ltd,389.09,2024-10-24,,Services,Admin,0
+INV2997,Tech Solutions Ltd,543.01,2024-08-08,,Services,Operations,0
+INV3000,Global Supplies Inc,324.88,2024-10-12,PO4016,Equipment,Operations,0
+INV3001,Industrial Parts Co,170.63,2024-07-30,PO5485,Services,Operations,0
+INV3002,Acme Corp,177.63,2024-04-04,PO4783,Supplies,Admin,1
+INV3003,Metro Supplies,384.09,2024-03-09,PO7126,Services,Sales,0
+INV3007,Metro Supplies,178.55,2024-03-11,PO7694,Supplies,Admin,0
+INV3011,Office Pro,138.48,2024-12-09,PO2083,Services,Sales,0
+INV3016,Metro Supplies,473.26,2024-12-18,PO5043,Maintenance,Sales,0
+INV3017,Professional Services Inc,275.21,2024-07-13,PO9784,Supplies,IT,0
+INV3021,Metro Supplies,3850.62,2024-01-22,PO9812,Maintenance,IT,0
+INV3026,Services Unlimited,7.57,2024-09-21,,Services,Admin,0
+INV3030,Services Unlimited,2074.05,2024-06-04,PO3727,Maintenance,Admin,0
+INV3035,Acme Corp,2615.28,2024-12-19,PO8400,Supplies,IT,0
+INV3037,Professional Services Inc,17.99,2024-12-22,PO6299,Maintenance,IT,0
+INV3039,Metro Supplies,241.28,2024-10-29,,Maintenance,IT,0
+INV3042,Industrial Parts Co,231.1,2024-12-20,PO3686,Supplies,IT,0
+INV3043,Metro Supplies,48.85,2024-11-20,PO7292,Services,Sales,0
+INV3048,Services Unlimited,125.62,2024-01-23,,Services,Operations,0
+INV3050,Global Supplies Inc,76.26,2024-12-30,PO8311,Equipment,Operations,1
+INV3051,Acme Corp,5588.16,2024-04-13,PO9169,Supplies,Sales,1
+INV3053,Office Pro,1641.75,2024-10-28,PO8239,Supplies,IT,0
+INV3055,Quality Goods Ltd,2717.13,2024-05-22,PO4401,Supplies,Operations,0
+INV3057,Acme Corp,1190.95,2024-11-30,PO1531,Equipment,Admin,0
+INV3058,Acme Corp,74.17,2024-02-25,PO5659,Services,Sales,0
+INV3063,Global Supplies Inc,183.68,2024-01-19,PO7208,Supplies,Sales,1
+INV3068,Global Supplies Inc,840.55,2024-05-29,PO5496,Equipment,Sales,0
+INV3073,Office Pro,64.51,2024-12-22,PO9666,Supplies,Sales,0
+INV3078,BuildMart,1175.56,2024-08-06,PO9608,Equipment,Operations,0
+INV3083,Professional Services Inc,281.33,2024-09-11,PO9069,Services,Operations,0
+INV3086,Office Pro,200.0,2024-01-01,PO2932,Services,Sales,1
+INV3090,Acme Corp,1171.97,2024-06-19,,Services,IT,0
+INV3092,BuildMart,785.56,2024-05-10,PO9301,Equipment,IT,0
+INV3093,Industrial Parts Co,234.76,2024-06-23,PO1477,Services,Operations,0
+INV3096,Industrial Parts Co,2296.16,2024-12-10,PO1582,Services,Sales,0
+INV3098,Metro Supplies,79.71,2024-10-01,PO7782,Supplies,Admin,0
+INV3103,Industrial Parts Co,1016.28,2024-10-11,PO6434,Equipment,IT,0
+INV3105,BuildMart,982.06,2024-01-16,PO9753,Services,Sales,0
+INV3107,Professional Services Inc,253.58,2024-02-29,PO6152,Supplies,Admin,0
+INV3111,Global Supplies Inc,658.0,2024-09-11,PO5958,Services,Admin,0
+INV3113,Global Supplies Inc,61.76,2024-07-10,PO2517,Maintenance,IT,0
+INV3117,Quality Goods Ltd,1613.31,2024-03-19,,Equipment,Admin,0
+INV3119,Global Supplies Inc,305.71,2024-09-21,PO1598,Maintenance,Sales,0
+INV3124,Global Supplies Inc,184.18,2024-01-03,PO2426,Equipment,Sales,0
+INV3125,Global Supplies Inc,1945.97,2024-09-23,PO1368,Equipment,Operations,0
+INV3128,Office Pro,140.26,2024-04-08,PO8227,Supplies,Admin,0
+INV3130,Tech Solutions Ltd,957.98,2024-05-20,PO5440,Services,Admin,1
+INV3135,Global Supplies Inc,39.06,2024-03-28,PO1475,Maintenance,IT,1
+INV3136,Services Unlimited,1000.0,2024-01-28,PO8304,Equipment,Admin,1
+INV3139,Office Pro,59.11,2024-12-31,,Supplies,Sales,0
+INV3144,Tech Solutions Ltd,5609.36,2024-02-17,,Maintenance,IT,0
+INV3148,BuildMart,17.76,2024-12-16,PO8709,Services,Operations,0
+INV3150,Professional Services Inc,5139.36,2024-05-12,PO6412,Equipment,Sales,0
+INV3154,Acme Corp,553.65,2024-02-03,PO8556,Services,Admin,0
+INV3157,Professional Services Inc,348.95,2024-10-21,PO2752,Equipment,IT,0
+INV3160,Quality Goods Ltd,178.15,2024-08-24,PO4992,Services,Sales,0
+INV3164,Global Supplies Inc,734.14,2024-06-23,PO8063,Maintenance,Admin,0
+INV3169,Office Pro,381.29,2024-03-29,PO8972,Supplies,Sales,0
+INV3172,Quality Goods Ltd,2111.08,2024-02-19,PO7648,Supplies,IT,0
+INV3177,Services Unlimited,478.83,2024-06-16,PO2483,Services,Operations,0
+INV3182,Acme Corp,505.45,2024-03-16,PO5775,Maintenance,Sales,0
+INV3184,Office Pro,233.83,2024-12-14,PO5989,Maintenance,Admin,0
+INV3185,Professional Services Inc,370.4,2024-01-05,PO3089,Equipment,IT,0
+INV3188,Acme Corp,640.15,2024-01-28,,Supplies,Operations,1
+INV3192,Professional Services Inc,31.02,2024-07-20,PO7652,Maintenance,Sales,0
+INV3197,Office Pro,53.4,2024-12-05,PO7301,Equipment,Sales,0
+INV3199,BuildMart,1230.16,2024-12-09,PO1257,Services,Sales,0
+INV3203,Tech Solutions Ltd,521.29,2024-02-13,,Maintenance,Sales,0
+INV3208,Tech Solutions Ltd,306.13,2024-08-20,PO8373,Maintenance,Admin,0
+INV3210,Tech Solutions Ltd,414.74,2024-08-05,PO4878,Equipment,Sales,0
+INV3215,Professional Services Inc,9538.29,2024-07-06,PO8889,Supplies,Operations,1
+INV3220,BuildMart,179.53,2024-08-26,PO2449,Services,Sales,0
+INV3221,Quality Goods Ltd,125.53,2024-10-23,PO6628,Supplies,Sales,0
+INV3225,Quality Goods Ltd,541.19,2024-08-28,PO6782,Equipment,Admin,0
+INV3227,Acme Corp,92.99,2024-12-21,PO5267,Supplies,Sales,0
+INV3232,Acme Corp,744.25,2024-10-20,PO2351,Services,IT,1
+INV3235,BuildMart,31.38,2024-03-08,PO5209,Supplies,IT,0
+INV3240,Tech Solutions Ltd,1888.87,2024-10-29,PO7058,Services,Admin,0
+INV3242,Metro Supplies,819.67,2024-04-02,,Equipment,IT,0
+INV3244,Professional Services Inc,592.32,2024-03-19,PO7765,Maintenance,Operations,0
+INV3248,Tech Solutions Ltd,1761.7,2024-04-17,,Supplies,Admin,0
+INV3249,Acme Corp,4905.99,2024-03-26,PO8803,Services,Sales,0
+INV3253,Metro Supplies,1847.44,2024-05-14,,Supplies,Admin,0
+INV3257,Services Unlimited,25.5,2024-12-13,PO1672,Supplies,Admin,0
+INV3261,Professional Services Inc,59.18,2024-11-29,PO5375,Supplies,Admin,0
+INV3266,Services Unlimited,158.03,2024-08-24,PO4193,Equipment,Operations,0
+INV3269,Quality Goods Ltd,419.53,2024-01-06,,Supplies,Sales,0
+INV3270,Quality Goods Ltd,876.98,2024-02-23,PO5641,Equipment,Operations,0
+INV3271,Quality Goods Ltd,876.98,2024-11-13,PO2965,Supplies,Operations,1
+INV3275,Professional Services Inc,533.87,2024-04-04,PO5150,Equipment,Sales,0
+INV3276,Metro Supplies,129.92,2024-05-21,PO6298,Equipment,Operations,0
+INV3277,BuildMart,161.21,2024-02-01,PO1984,Equipment,Admin,0
+INV3279,Metro Supplies,48.91,2024-02-05,,Maintenance,Operations,0
+INV3283,Global Supplies Inc,101.0,2024-03-14,PO2740,Maintenance,Admin,0
+INV3284,Global Supplies Inc,53.12,2024-02-07,PO9154,Services,IT,1
+INV3285,Services Unlimited,93.33,2024-05-16,PO7411,Supplies,Sales,0
+INV3289,Services Unlimited,1959.54,2024-07-25,PO2148,Services,IT,0
+INV3293,Metro Supplies,97.12,2024-03-03,,Equipment,Admin,0
+INV3296,Services Unlimited,20922.35,2024-01-29,,Supplies,Admin,0
+INV3301,Industrial Parts Co,845.54,2024-02-11,PO5750,Services,Operations,0
+INV3306,Acme Corp,532.32,2024-07-15,PO7391,Supplies,Admin,0
+INV3310,Global Supplies Inc,111.33,2024-11-19,PO1584,Services,IT,0
+INV3315,Office Pro,1153.39,2024-09-07,PO6041,Maintenance,Sales,0
+INV3316,Acme Corp,4641.37,2024-06-22,,Maintenance,Operations,1
+INV3321,Office Pro,1153.39,2024-02-06,PO8720,Supplies,Operations,1
+INV3323,Acme Corp,18772.1,2024-03-29,,Supplies,Sales,0
+INV3328,Tech Solutions Ltd,954.8,2024-10-29,PO4613,Supplies,Operations,1
+INV3332,Industrial Parts Co,2261.79,2024-12-13,PO9943,Services,Admin,0
+INV3334,Acme Corp,140.5,2024-10-30,PO5487,Services,Sales,0
+INV3336,Industrial Parts Co,382.8,2024-10-10,PO1666,Services,IT,0
+INV3341,Services Unlimited,5700.0,2024-03-21,PO1118,Services,IT,1
+INV3346,BuildMart,157.52,2024-08-01,PO8798,Services,Operations,0
+INV3348,BuildMart,6116.06,2024-09-24,PO3859,Supplies,Operations,0
+INV3352,Professional Services Inc,1166.34,2024-02-15,PO6699,Maintenance,IT,0
+INV3357,Office Pro,9453.33,2024-04-08,PO9842,Services,Sales,1
+INV3359,BuildMart,1041.7,2024-01-28,PO8772,Maintenance,Operations,0
+INV3361,Acme Corp,1735.12,2024-01-28,PO8121,Equipment,Admin,0
+INV3366,Metro Supplies,9323.12,2024-01-23,PO8947,Supplies,IT,1
+INV3368,Metro Supplies,38.27,2024-10-30,PO6336,Services,IT,0
+INV3371,Office Pro,135.54,2024-02-20,PO4276,Maintenance,Operations,0
+INV3372,Metro Supplies,278.31,2024-10-26,,Services,Operations,0
+INV3377,Metro Supplies,360.81,2024-04-01,PO4181,Equipment,Admin,0
+INV3379,Industrial Parts Co,4647.78,2024-03-06,,Maintenance,Sales,1
+INV3381,Industrial Parts Co,526.66,2024-04-22,PO3784,Services,IT,0
+INV3385,Quality Goods Ltd,54.43,2024-09-07,PO8757,Maintenance,Admin,0
+INV3386,Services Unlimited,713.58,2024-05-06,PO4643,Services,IT,0
+INV3390,Acme Corp,1008.16,2024-01-21,PO9261,Supplies,Sales,0
+INV3395,Services Unlimited,934.2,2024-09-02,PO2605,Maintenance,Sales,0
+INV3397,Global Supplies Inc,2040.95,2024-10-12,PO7662,Services,Operations,0
+INV3400,BuildMart,1409.35,2024-05-02,PO8860,Equipment,Operations,0
+INV3404,Professional Services Inc,800.0,2024-10-25,PO3271,Maintenance,Operations,1
+INV3407,Metro Supplies,363.13,2024-12-26,,Supplies,Sales,0
+INV3410,Quality Goods Ltd,33.4,2024-01-17,PO9887,Services,IT,0
+INV3415,Industrial Parts Co,768.49,2024-01-29,,Equipment,IT,0
+INV3416,Services Unlimited,550.89,2024-07-06,PO7003,Services,IT,0
+INV3421,Office Pro,606.3,2024-03-11,PO2860,Maintenance,Operations,0
+INV3423,Industrial Parts Co,59.43,2024-06-29,PO7929,Equipment,IT,0
+INV3424,Industrial Parts Co,79.71,2024-06-25,PO3010,Maintenance,Admin,0
+INV3428,Professional Services Inc,1958.1,2024-07-07,,Supplies,Operations,0
+INV3432,Global Supplies Inc,380.19,2024-02-11,PO2260,Supplies,Operations,0
+INV3435,Global Supplies Inc,1121.31,2024-12-22,PO4346,Supplies,Admin,0
+INV3439,Quality Goods Ltd,420.93,2024-03-08,PO1351,Equipment,Operations,0
+INV3440,Acme Corp,421.84,2024-04-28,PO6503,Maintenance,Admin,0
+INV3443,Metro Supplies,1648.18,2024-10-30,PO9986,Maintenance,Sales,0
+INV3446,Professional Services Inc,186.03,2024-03-08,PO5259,Services,Sales,0
+INV3449,BuildMart,466.0,2024-01-25,PO3725,Services,Admin,0
+INV3451,Tech Solutions Ltd,201.66,2024-12-28,PO3514,Services,Operations,0
+INV3452,Acme Corp,210.24,2024-06-11,PO7056,Services,Operations,0
+INV3457,Acme Corp,253.72,2024-12-06,PO7109,Maintenance,Operations,0
+INV3462,BuildMart,562.96,2024-03-03,PO9182,Services,Sales,0
+INV3465,Tech Solutions Ltd,196.74,2024-01-03,PO9313,Equipment,Admin,0
+INV3469,BuildMart,2653.5,2024-10-20,PO8243,Equipment,IT,0
+INV3473,Acme Corp,105.43,2024-03-12,PO1406,Maintenance,Operations,0
+INV3477,Industrial Parts Co,304.81,2024-02-17,PO4197,Services,Admin,0
+INV3479,Acme Corp,208.6,2024-02-12,PO2431,Maintenance,Operations,0
+INV3483,Industrial Parts Co,3534.99,2024-11-04,,Equipment,Sales,0
+INV3485,Services Unlimited,541.76,2024-07-08,PO6651,Equipment,Admin,0
+INV3489,Quality Goods Ltd,1896.5,2024-02-14,,Maintenance,Sales,0
+INV3492,Tech Solutions Ltd,43.45,2024-08-05,PO2410,Services,Operations,0
+INV3495,Metro Supplies,602.19,2024-09-25,PO7156,Supplies,IT,0
+INV3499,BuildMart,1532.18,2024-07-31,PO3243,Services,Operations,0
+INV3503,BuildMart,456.43,2024-10-10,,Equipment,Admin,0
+INV3507,Quality Goods Ltd,1994.64,2024-08-25,PO3523,Equipment,Admin,0
+INV3511,Global Supplies Inc,185.69,2024-11-30,PO3938,Maintenance,Operations,0
+INV3512,Global Supplies Inc,3340.99,2024-05-21,,Equipment,Sales,0
+INV3517,Services Unlimited,12687.18,2024-05-12,PO2959,Equipment,IT,0
+INV3520,Global Supplies Inc,234.1,2024-10-24,,Services,Admin,1
+INV3522,Acme Corp,206.8,2024-05-19,PO6832,Supplies,Admin,0
+INV3525,Quality Goods Ltd,3569.13,2024-11-23,PO4002,Supplies,Operations,0
+INV3530,Industrial Parts Co,4312.87,2024-06-10,PO5932,Equipment,Admin,0
+INV3531,Quality Goods Ltd,184.14,2024-10-23,PO3243,Equipment,Admin,0
+INV3535,Services Unlimited,214.8,2024-06-23,PO4569,Services,Operations,0
+INV3537,Quality Goods Ltd,264.36,2024-11-10,,Supplies,Sales,0
+INV3541,Global Supplies Inc,53.7,2024-02-29,,Maintenance,Admin,0
+INV3544,Industrial Parts Co,101.7,2024-03-12,,Equipment,Operations,0
+INV3547,Acme Corp,89.46,2024-03-01,,Services,Operations,0
+INV3550,Tech Solutions Ltd,127.52,2024-04-17,PO2830,Supplies,IT,0
+INV3554,Services Unlimited,382.98,2024-01-22,PO9412,Supplies,Sales,0
+INV3555,BuildMart,974.77,2024-01-23,,Services,Operations,1
+INV3557,Global Supplies Inc,4128.84,2024-01-15,PO9202,Services,IT,1
+INV3558,Professional Services Inc,90.24,2024-01-08,PO5617,Services,IT,0
+INV3559,Office Pro,1766.02,2024-09-15,PO4033,Maintenance,IT,0
+INV3561,Industrial Parts Co,292.66,2024-07-13,PO7677,Supplies,Admin,0
+INV3562,Metro Supplies,374.58,2024-02-26,PO6918,Equipment,IT,0
+INV3563,Global Supplies Inc,1110.13,2024-09-09,PO6111,Maintenance,Operations,1
+INV3568,Services Unlimited,74.88,2024-05-28,PO2140,Maintenance,Admin,0
+INV3570,Acme Corp,715.95,2024-12-11,PO8177,Supplies,IT,0
+INV3572,Services Unlimited,517.85,2024-07-24,,Services,IT,0
+INV3575,Office Pro,844.44,2024-06-22,,Maintenance,IT,0
+INV3577,Services Unlimited,622.51,2024-09-12,PO5472,Maintenance,Admin,0
+INV3581,Professional Services Inc,16041.75,2024-07-26,PO3414,Maintenance,IT,0
+INV3582,BuildMart,154.99,2024-09-07,PO3205,Supplies,IT,0
+INV3583,Global Supplies Inc,181.91,2024-09-12,,Maintenance,Admin,0
+INV3585,BuildMart,158.43,2024-11-14,PO9518,Maintenance,Sales,0
+INV3587,BuildMart,175.35,2024-12-04,PO9887,Equipment,IT,0
+INV3588,Services Unlimited,155.08,2024-03-01,PO7165,Maintenance,Sales,0
+INV3589,Acme Corp,2400.72,2024-03-31,,Equipment,Operations,0
+INV3593,Services Unlimited,3397.37,2024-03-09,PO2792,Maintenance,Sales,0
+INV3597,Quality Goods Ltd,171.38,2024-03-21,PO9105,Maintenance,Admin,0
+INV3600,Industrial Parts Co,978.59,2024-02-01,PO1440,Equipment,Sales,1
+INV3601,Services Unlimited,818.21,2024-06-25,PO1924,Services,Operations,0
+INV3603,BuildMart,4640.06,2024-10-30,PO9821,Equipment,IT,1
+INV3607,Services Unlimited,1042.52,2024-10-17,PO1334,Maintenance,IT,0
+INV3610,Services Unlimited,546.96,2024-10-19,PO9001,Supplies,Operations,0
+INV3613,Metro Supplies,41.53,2024-09-14,PO3730,Equipment,Admin,0
+INV3617,Office Pro,4110.33,2024-09-11,,Supplies,Operations,0
+INV3620,BuildMart,5965.91,2024-01-25,PO4700,Supplies,IT,0
+INV3625,Industrial Parts Co,200.0,2024-05-19,PO6690,Supplies,Admin,1
+INV3630,BuildMart,225.53,2024-08-09,PO7788,Maintenance,Admin,0
+INV3635,Quality Goods Ltd,619.43,2024-08-20,PO1304,Services,Sales,0
+INV3637,Metro Supplies,666.26,2024-05-17,PO8106,Supplies,Operations,0
+INV3640,Metro Supplies,1083.35,2024-03-16,PO5919,Maintenance,Sales,0
+INV3643,Global Supplies Inc,8228.07,2024-11-20,PO5702,Services,Admin,0
+INV3648,Office Pro,309.38,2024-07-26,PO1453,Services,Admin,0
+INV3652,Metro Supplies,121.82,2024-10-13,PO1606,Services,Operations,0
+INV3655,Tech Solutions Ltd,50.96,2024-01-15,,Services,IT,0
+INV3659,Acme Corp,134.77,2024-01-29,PO5882,Supplies,Sales,0
+INV3662,Global Supplies Inc,383.87,2024-07-22,PO3302,Services,IT,0
+INV3667,Quality Goods Ltd,5954.11,2024-03-02,,Equipment,Sales,0
+INV3668,Office Pro,185.6,2024-11-03,,Equipment,Sales,0
+INV3670,Services Unlimited,564.35,2024-04-21,PO5498,Maintenance,Sales,0
+INV3673,Professional Services Inc,393.61,2024-01-29,PO2850,Equipment,Sales,0
+INV3677,Office Pro,2398.48,2024-05-22,,Equipment,Sales,0
+INV3680,BuildMart,17861.43,2024-01-11,,Supplies,IT,0
+INV3682,BuildMart,181.94,2024-10-09,PO6945,Supplies,Operations,0
+INV3686,Services Unlimited,193.61,2024-01-05,PO5186,Equipment,IT,0
+INV3688,BuildMart,1931.87,2024-04-17,PO8190,Equipment,Sales,0
+INV3689,BuildMart,1121.97,2024-02-11,,Maintenance,Sales,0
+INV3692,Services Unlimited,6438.57,2024-02-21,PO9295,Supplies,Admin,0
+INV3696,Professional Services Inc,968.64,2024-10-07,PO1448,Supplies,Operations,0
+INV3700,Tech Solutions Ltd,235.35,2024-01-02,PO6140,Supplies,IT,0
+INV3702,Office Pro,978.46,2024-09-21,PO3131,Maintenance,Admin,0
+INV3706,Metro Supplies,2128.25,2024-03-09,PO6367,Equipment,Operations,0
+INV3707,Services Unlimited,1381.22,2024-07-07,,Services,IT,0
+INV3708,Quality Goods Ltd,863.43,2024-11-27,PO2457,Maintenance,Operations,0
+INV3711,Tech Solutions Ltd,1998.22,2024-01-26,PO5262,Services,IT,0
+INV3714,Tech Solutions Ltd,2300.0,2024-10-17,PO8433,Maintenance,IT,1
+INV3716,Office Pro,3207.47,2024-04-07,,Equipment,Admin,0
+INV3720,Services Unlimited,1067.49,2024-03-07,PO4531,Equipment,Operations,0
+INV3724,Tech Solutions Ltd,313.98,2024-07-28,PO5289,Services,Sales,0
+INV3726,Industrial Parts Co,502.74,2024-10-25,PO1169,Maintenance,Operations,0
+INV3729,Services Unlimited,2464.55,2024-12-17,PO7935,Equipment,IT,0
+INV3730,Industrial Parts Co,502.74,2024-01-31,,Supplies,IT,1
+INV3733,Quality Goods Ltd,701.35,2024-11-13,,Equipment,Operations,0
+INV3738,Acme Corp,223.63,2024-10-24,PO9074,Equipment,Sales,0
+INV3740,Global Supplies Inc,421.2,2024-06-11,PO5266,Supplies,Admin,0
+INV3741,Tech Solutions Ltd,2745.39,2024-09-12,,Equipment,Sales,0
+INV3744,BuildMart,537.35,2024-11-09,,Equipment,Sales,0
+INV3746,Industrial Parts Co,432.53,2024-09-08,PO8208,Supplies,Operations,0
+INV3748,Acme Corp,52.47,2024-04-27,PO3679,Maintenance,Sales,0
+INV3749,Metro Supplies,1235.68,2024-01-21,,Maintenance,Sales,0
+INV3753,Global Supplies Inc,1062.34,2024-03-16,PO5654,Services,Operations,0
+INV3758,BuildMart,10351.45,2024-10-15,PO1067,Services,Sales,0
+INV3759,Office Pro,254.25,2024-09-12,,Supplies,Admin,0
+INV3760,Services Unlimited,560.44,2024-07-10,,Equipment,Operations,0
+INV3761,Global Supplies Inc,586.44,2024-08-23,PO8439,Equipment,IT,0
+INV3764,Acme Corp,4299.18,2024-12-01,PO3118,Services,IT,0
+INV3767,Industrial Parts Co,349.69,2024-01-29,PO7248,Supplies,Sales,0
+INV3770,Tech Solutions Ltd,613.1,2024-05-02,,Supplies,IT,0
+INV3772,Tech Solutions Ltd,1004.1,2024-07-17,PO3525,Supplies,Admin,0
+INV3776,Services Unlimited,533.74,2024-06-07,PO6882,Supplies,Admin,0
+INV3781,Office Pro,206.51,2024-09-07,PO5398,Maintenance,IT,0
+INV3785,Industrial Parts Co,539.77,2024-11-10,PO2522,Supplies,Admin,0
+INV3789,Office Pro,2019.18,2024-11-27,PO9115,Supplies,Admin,0
+INV3793,Services Unlimited,86.51,2024-02-10,PO3434,Services,Admin,0
+INV3795,Quality Goods Ltd,492.48,2024-08-06,PO2253,Supplies,IT,0
+INV3800,Global Supplies Inc,141.15,2024-07-30,PO2339,Supplies,IT,1
+INV3804,Tech Solutions Ltd,2422.54,2024-04-03,PO7819,Equipment,Admin,0
+INV3809,Metro Supplies,41.07,2024-12-09,,Equipment,Operations,0
+INV3811,Tech Solutions Ltd,174.45,2024-02-10,PO2742,Maintenance,IT,0
+INV3812,Services Unlimited,700.0,2024-02-29,PO7637,Maintenance,Admin,1
+INV3817,Professional Services Inc,4222.94,2024-07-03,,Maintenance,Admin,0
+INV3818,Tech Solutions Ltd,968.72,2024-03-10,PO1439,Services,Sales,1
+INV3820,Office Pro,175.42,2024-08-11,,Services,IT,0
+INV3823,Metro Supplies,6780.02,2024-03-16,PO3721,Services,Sales,0
+INV3827,Metro Supplies,45.97,2024-01-11,PO4298,Equipment,Sales,0
+INV3828,Industrial Parts Co,0.0,2024-01-05,,Maintenance,Admin,1
+INV3829,Metro Supplies,780.57,2024-07-23,PO8993,Services,IT,0
+INV3834,Acme Corp,189.98,2024-08-04,PO5388,Maintenance,Sales,0
+INV3835,Metro Supplies,87.2,2024-11-14,PO8147,Supplies,Operations,0
+INV3838,Office Pro,1167.4,2024-08-28,PO4599,Equipment,Sales,0
+INV3840,BuildMart,581.55,2024-12-30,PO6902,Maintenance,Operations,0
+INV3845,Office Pro,173.1,2024-05-24,PO8911,Services,Operations,0
+INV3847,Tech Solutions Ltd,59.12,2024-11-06,PO9089,Equipment,Operations,0
+INV3849,Quality Goods Ltd,1493.21,2024-01-25,PO5273,Equipment,Operations,0
+INV3851,Quality Goods Ltd,1069.88,2024-01-17,PO2867,Services,IT,0
+INV3856,Office Pro,347.66,2024-09-06,PO6820,Supplies,Admin,0
+INV3858,Quality Goods Ltd,6437.89,2024-11-05,PO8173,Maintenance,IT,0
+INV3859,Professional Services Inc,81.03,2024-11-08,,Supplies,IT,0
+INV3861,Global Supplies Inc,40.92,2024-04-15,PO5786,Maintenance,Sales,0
+INV3862,Tech Solutions Ltd,142.9,2024-11-27,,Supplies,Operations,0
+INV3866,Services Unlimited,376.76,2024-01-04,,Equipment,Admin,0
+INV3871,Tech Solutions Ltd,581.15,2024-02-13,PO7799,Equipment,Operations,0
+INV3873,Quality Goods Ltd,280.94,2024-08-03,PO8025,Maintenance,Sales,0
+INV3877,Quality Goods Ltd,684.09,2024-12-15,PO3385,Supplies,IT,0
+INV3878,Industrial Parts Co,61.73,2024-06-10,PO8111,Supplies,Sales,0
+INV3879,Global Supplies Inc,3518.0,2024-10-21,PO5986,Equipment,Admin,1
+INV3880,BuildMart,356.66,2024-09-27,PO7618,Maintenance,Operations,0
+INV3885,Professional Services Inc,2155.86,2024-11-12,PO7627,Services,Admin,0
+INV3886,Acme Corp,674.58,2024-10-02,PO3064,Equipment,Operations,0
+INV3887,Quality Goods Ltd,800.41,2024-10-09,PO3621,Supplies,IT,0
+INV3892,Professional Services Inc,948.28,2024-05-12,PO7926,Supplies,IT,0
+INV3895,BuildMart,789.63,2024-11-17,PO3043,Maintenance,Admin,0
+INV3900,Acme Corp,1057.95,2024-08-20,PO9737,Services,Admin,0
+INV3903,BuildMart,2962.32,2024-12-07,PO3293,Maintenance,Operations,0
+INV3904,Industrial Parts Co,541.74,2024-09-21,,Equipment,Sales,0
+INV3905,Tech Solutions Ltd,1168.53,2024-12-30,PO2511,Supplies,Sales,0
+INV3907,Metro Supplies,352.62,2024-04-19,PO9622,Maintenance,Sales,0
+INV3910,Professional Services Inc,3498.8,2024-09-12,,Maintenance,Sales,0
+INV3912,Tech Solutions Ltd,146.26,2024-09-15,PO3119,Supplies,Operations,0
+INV3916,Metro Supplies,6011.39,2024-01-17,,Equipment,IT,0
+INV3921,Services Unlimited,379.84,2024-02-26,PO1659,Services,IT,0
+INV3924,BuildMart,47.17,2024-07-10,PO3340,Services,Sales,0
+INV3925,BuildMart,488.9,2024-05-25,,Maintenance,IT,0
+INV3926,Quality Goods Ltd,4768.41,2024-06-27,PO8411,Equipment,Sales,1
+INV3930,Professional Services Inc,1423.63,2024-03-08,PO8551,Maintenance,Sales,0
+INV3932,Industrial Parts Co,151.57,2024-02-15,PO7711,Maintenance,Operations,0
+INV3936,Industrial Parts Co,200.0,2024-10-03,PO2450,Services,IT,1
+INV3941,BuildMart,23.71,2024-10-14,PO2395,Services,IT,0
+INV3946,Quality Goods Ltd,204.7,2024-04-06,PO1305,Supplies,Operations,0
+INV3947,BuildMart,10.64,2024-04-15,PO8278,Supplies,Admin,0
+INV3951,Professional Services Inc,37.49,2024-01-24,,Equipment,Sales,0
+INV3953,Services Unlimited,1262.21,2024-01-13,PO5213,Supplies,IT,0
+INV3954,Quality Goods Ltd,1311.2,2024-03-27,PO2468,Services,Admin,0
+INV3958,Tech Solutions Ltd,763.71,2024-01-31,PO1445,Supplies,Admin,0
+INV3962,Global Supplies Inc,94.59,2024-06-12,,Equipment,Sales,0
+INV3963,Acme Corp,375.57,2024-04-13,PO4874,Maintenance,Sales,0
+INV3964,BuildMart,401.25,2024-02-01,PO2072,Maintenance,IT,0
+INV3968,Office Pro,70.98,2024-01-10,,Supplies,Operations,0
+INV3973,Tech Solutions Ltd,3847.19,2024-06-04,PO9199,Services,Operations,0
+INV3976,Quality Goods Ltd,1504.24,2024-03-27,PO7942,Maintenance,IT,0
+INV3977,Metro Supplies,289.62,2024-11-13,,Supplies,IT,0
+INV3981,BuildMart,420.03,2024-11-02,PO6757,Services,Admin,0
+INV3982,Tech Solutions Ltd,551.46,2024-09-30,PO7476,Supplies,Operations,0
+INV3987,BuildMart,18.87,2024-08-09,PO6215,Equipment,Admin,0
+INV3991,BuildMart,278.45,2024-05-05,PO4450,Maintenance,Admin,0
+INV3992,Tech Solutions Ltd,145.04,2024-11-26,PO1070,Supplies,Operations,0
+INV3996,Quality Goods Ltd,89.8,2024-12-22,PO9816,Supplies,IT,0
+INV4001,Acme Corp,264.63,2024-12-09,PO7166,Equipment,Sales,0
+INV4003,Acme Corp,5982.12,2024-03-04,,Maintenance,IT,0
+INV4005,Acme Corp,1054.97,2024-05-23,PO4137,Supplies,Admin,0
+INV4007,Office Pro,171.27,2024-09-09,PO9074,Services,IT,0
+INV4009,Services Unlimited,952.29,2024-02-26,PO9093,Services,Operations,0

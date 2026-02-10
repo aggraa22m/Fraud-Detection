@@ -1,0 +1,1001 @@
+expense_id,employee,amount,merchant,date,category,description,is_fraud
+EXP000001,Employee_D,54.42,Restaurant ABC,2024-05-20,Travel,Business meeting,0
+EXP000002,Employee_R,28.84,Hotel XYZ,2024-10-29,Meals,Business meeting,0
+EXP000003,Employee_G,63.29,Office Depot,2024-09-15,Travel,Conference,0
+EXP000004,Employee_H,151.87,Conference Center,2024-10-28,Meals,Client dinner,0
+EXP000005,Employee_N,26.2,Airline,2024-05-22,Supplies,Business meeting,0
+EXP000006,Employee_C,26.2,Taxi Service,2024-02-19,Supplies,Office supplies,0
+EXP000007,Employee_B,160.65,Conference Center,2024-10-01,Entertainment,Business meeting,0
+EXP000008,Employee_R,71.34,Coffee Shop,2024-11-17,Supplies,Client dinner,0
+EXP000009,Employee_C,20.71,Restaurant ABC,2024-12-04,Supplies,Business meeting,0
+EXP000010,Employee_H,56.97,Hotel XYZ,2024-07-13,Supplies,Client dinner,0
+EXP000011,Employee_L,20.83,Airline,2024-04-17,Meals,Client dinner,0
+EXP000012,Employee_R,20.79,Office Depot,2024-03-24,Supplies,Client dinner,0
+EXP000013,Employee_K,42.18,Restaurant ABC,2024-04-27,Supplies,Conference,0
+EXP000014,Employee_I,4.89,Hotel XYZ,2024-04-18,Supplies,Client dinner,0
+EXP000015,Employee_P,5.9,Taxi Service,2024-11-25,Supplies,Client dinner,0
+EXP000016,Employee_H,18.87,Coffee Shop,2024-10-26,Entertainment,Office supplies,0
+EXP000017,Employee_H,12.03,Gas Station,2024-09-17,Meals,Business meeting,0
+EXP000018,Employee_E,45.34,Gas Station,2024-12-14,Meals,Conference,0
+EXP000019,Employee_M,13.36,Conference Center,2024-09-27,Meals,Business meeting,0
+EXP000020,Employee_R,8.07,Coffee Shop,2024-11-24,Supplies,Conference,0
+EXP000021,Employee_F,143.4,Conference Center,2024-01-02,Supplies,Client dinner,0
+EXP000022,Employee_Q,26.42,Hotel XYZ,2024-11-16,Travel,Client dinner,0
+EXP000023,Employee_L,35.43,Gas Station,2024-10-03,Meals,Office supplies,0
+EXP000024,Employee_P,7.97,Restaurant ABC,2024-02-27,Supplies,Client dinner,0
+EXP000025,Employee_B,19.21,Office Depot,2024-10-17,Meals,Conference,0
+EXP000026,Employee_C,37.0,Gas Station,2024-03-06,Travel,Office supplies,0
+EXP000027,Employee_Q,10.48,Taxi Service,2024-04-18,Travel,Office supplies,0
+EXP000028,Employee_M,48.22,Airline,2024-08-12,Entertainment,Business meeting,0
+EXP000029,Employee_H,18.16,Office Depot,2024-02-02,Travel,Client dinner,0
+EXP000030,Employee_A,24.74,Hotel XYZ,2024-12-28,Travel,Business meeting,0
+EXP000031,Employee_B,18.14,Airline,2024-02-06,Supplies,Conference,0
+EXP000032,Employee_G,211.09,Gas Station,2024-10-19,Travel,Conference,0
+EXP000033,Employee_N,30.0,Office Depot,2024-02-18,Supplies,Conference,1
+EXP000034,Employee_N,11.5,Conference Center,2024-01-28,Meals,Business meeting,0
+EXP000035,Employee_M,75.38,Airline,2024-02-25,Travel,Conference,0
+EXP000036,Employee_E,9.77,Taxi Service,2024-04-03,Travel,Business meeting,0
+EXP000037,Employee_O,40.81,Hotel XYZ,2024-01-26,Meals,Business meeting,0
+EXP000038,Employee_H,4.67,Gas Station,2024-07-27,Travel,Conference,0
+EXP000039,Employee_B,10.0,Gas Station,2024-07-13,Supplies,Conference,1
+EXP000040,Employee_J,40.32,Taxi Service,2024-12-22,Entertainment,Client dinner,0
+EXP000041,Employee_G,69.3,Coffee Shop,2024-04-21,Meals,Office supplies,0
+EXP000042,Employee_B,39.31,Restaurant ABC,2024-10-26,Travel,Business meeting,0
+EXP000043,Employee_Q,26.42,Hotel XYZ,2024-11-17,Meals,Client dinner,1
+EXP000044,Employee_S,351.65,Restaurant ABC,2024-11-13,Travel,Office supplies,1
+EXP000045,Employee_H,7.55,Coffee Shop,2024-07-21,Supplies,Conference,0
+EXP000046,Employee_K,16.12,Hotel XYZ,2024-01-05,Meals,Business meeting,0
+EXP000047,Employee_R,20.89,Office Depot,2024-09-16,Supplies,Business meeting,0
+EXP000048,Employee_H,95.31,Airline,2024-05-25,Supplies,Business meeting,0
+EXP000049,Employee_R,46.69,Coffee Shop,2024-12-05,Travel,Office supplies,0
+EXP000050,Employee_D,5.68,Hotel XYZ,2024-10-10,Supplies,Client dinner,0
+EXP000051,Employee_K,45.79,Office Depot,2024-12-17,Supplies,Conference,0
+EXP000052,Employee_I,22.53,Restaurant ABC,2024-02-17,Supplies,Business meeting,0
+EXP000053,Employee_A,16.83,Airline,2024-03-07,Supplies,Client dinner,0
+EXP000054,Employee_O,40.81,Hotel XYZ,2024-01-26,Supplies,Client dinner,1
+EXP000055,Employee_N,92.85,Gas Station,2024-01-22,Meals,Office supplies,0
+EXP000056,Employee_G,84.04,Office Depot,2024-12-07,Entertainment,Client dinner,0
+EXP000057,Employee_H,14.31,Gas Station,2024-03-31,Meals,Client dinner,0
+EXP000058,Employee_K,24.31,Taxi Service,2024-12-08,Travel,Office supplies,0
+EXP000059,Employee_F,46.12,Hotel XYZ,2024-07-14,Entertainment,Client dinner,0
+EXP000060,Employee_G,87.84,Conference Center,2024-06-28,Travel,Client dinner,0
+EXP000061,Employee_A,20.51,Office Depot,2024-07-23,Meals,Office supplies,0
+EXP000062,Employee_L,27.5,Taxi Service,2024-12-13,Supplies,Business meeting,0
+EXP000063,Employee_D,10.95,Coffee Shop,2024-04-01,Supplies,Business meeting,0
+EXP000064,Employee_D,10.01,Taxi Service,2024-06-25,Supplies,Conference,0
+EXP000065,Employee_T,74.63,Hotel XYZ,2024-07-16,Travel,Office supplies,0
+EXP000066,Employee_B,128.54,Taxi Service,2024-01-01,Travel,Office supplies,0
+EXP000067,Employee_N,30.81,Hotel XYZ,2024-12-06,Supplies,Business meeting,0
+EXP000068,Employee_J,90.34,Coffee Shop,2024-12-07,Entertainment,Office supplies,0
+EXP000069,Employee_R,47.54,Gas Station,2024-04-08,Entertainment,Client dinner,0
+EXP000070,Employee_T,17.37,Coffee Shop,2024-07-26,Meals,Office supplies,0
+EXP000071,Employee_J,47.53,Office Depot,2024-08-08,Supplies,Conference,0
+EXP000072,Employee_O,154.17,Conference Center,2024-12-11,Entertainment,Client dinner,0
+EXP000073,Employee_C,31.95,Coffee Shop,2024-09-20,Supplies,Business meeting,0
+EXP000074,Employee_H,158.32,Coffee Shop,2024-04-25,Travel,Business meeting,0
+EXP000075,Employee_B,2.41,Office Depot,2024-08-31,Meals,Conference,0
+EXP000076,Employee_N,75.33,Office Depot,2024-12-22,Entertainment,Client dinner,0
+EXP000077,Employee_E,36.13,Restaurant ABC,2024-02-24,Travel,Client dinner,0
+EXP000078,Employee_Q,24.56,Conference Center,2024-01-26,Meals,Conference,0
+EXP000079,Employee_E,36.3,Conference Center,2024-12-07,Supplies,Conference,0
+EXP000080,Employee_T,4.54,Taxi Service,2024-10-07,Travel,Conference,0
+EXP000081,Employee_O,26.58,Coffee Shop,2024-05-06,Supplies,Conference,0
+EXP000082,Employee_H,347.64,Coffee Shop,2024-08-13,Supplies,Office supplies,1
+EXP000083,Employee_R,145.17,Hotel XYZ,2024-03-11,Entertainment,Client dinner,0
+EXP000084,Employee_G,19.72,Hotel XYZ,2024-07-31,Entertainment,Conference,0
+EXP000085,Employee_B,14.75,Office Depot,2024-08-03,Meals,Conference,0
+EXP000086,Employee_P,20.05,Restaurant ABC,2024-06-29,Entertainment,Conference,0
+EXP000087,Employee_R,82.72,Office Depot,2024-09-06,Entertainment,Conference,0
+EXP000088,Employee_A,46.01,Taxi Service,2024-06-21,Entertainment,Client dinner,0
+EXP000089,Employee_O,19.5,Gas Station,2024-11-14,Entertainment,Business meeting,0
+EXP000090,Employee_C,55.33,Taxi Service,2024-03-10,Travel,Business meeting,0
+EXP000091,Employee_I,36.49,Taxi Service,2024-06-16,Supplies,Office supplies,0
+EXP000092,Employee_M,87.24,Coffee Shop,2024-08-03,Meals,Conference,0
+EXP000093,Employee_A,16.41,Restaurant ABC,2024-06-28,Meals,Business meeting,0
+EXP000094,Employee_A,23.86,Office Depot,2024-04-12,Travel,Client dinner,0
+EXP000095,Employee_E,22.37,Conference Center,2024-12-08,Travel,Conference,0
+EXP000096,Employee_I,7.66,Airline,2024-03-26,Meals,Client dinner,0
+EXP000097,Employee_J,479.05,Hotel XYZ,2024-10-23,Entertainment,Conference,1
+EXP000098,Employee_G,42.99,Hotel XYZ,2024-10-30,Travel,Business meeting,0
+EXP000099,Employee_J,33.29,Hotel XYZ,2024-10-16,Supplies,Conference,0
+EXP000100,Employee_L,26.19,Hotel XYZ,2024-09-16,Meals,Conference,0
+EXP000101,Employee_P,8.04,Hotel XYZ,2024-08-09,Entertainment,Client dinner,0
+EXP000102,Employee_N,21.74,Gas Station,2024-09-24,Supplies,Conference,0
+EXP000103,Employee_O,23.51,Taxi Service,2024-10-30,Travel,Business meeting,0
+EXP000104,Employee_I,14.85,Conference Center,2024-05-04,Entertainment,Office supplies,0
+EXP000105,Employee_A,28.18,Conference Center,2024-06-15,Travel,Office supplies,0
+EXP000106,Employee_I,49.6,Airline,2024-05-23,Supplies,Business meeting,0
+EXP000107,Employee_Q,218.37,Office Depot,2024-02-13,Entertainment,Conference,0
+EXP000108,Employee_R,39.43,Office Depot,2024-12-19,Entertainment,Conference,0
+EXP000109,Employee_A,42.84,Hotel XYZ,2024-05-30,Travel,Office supplies,0
+EXP000110,Employee_S,30.74,Airline,2024-08-30,Supplies,Conference,0
+EXP000111,Employee_R,4.86,Airline,2024-06-29,Supplies,Office supplies,0
+EXP000112,Employee_I,32.25,Office Depot,2024-03-02,Supplies,Business meeting,0
+EXP000113,Employee_R,35.17,Gas Station,2024-04-08,Entertainment,Office supplies,0
+EXP000114,Employee_S,388.87,Coffee Shop,2024-02-21,Supplies,Client dinner,0
+EXP000115,Employee_L,184.64,Gas Station,2024-06-03,Meals,Office supplies,1
+EXP000116,Employee_E,44.77,Conference Center,2024-02-22,Supplies,Conference,0
+EXP000117,Employee_P,31.99,Conference Center,2024-06-23,Meals,Office supplies,0
+EXP000118,Employee_P,10.29,Hotel XYZ,2024-02-03,Meals,Business meeting,0
+EXP000119,Employee_E,103.84,Gas Station,2024-10-15,Meals,Client dinner,0
+EXP000120,Employee_D,70.24,Taxi Service,2024-11-06,Travel,Conference,0
+EXP000121,Employee_O,73.04,Conference Center,2024-06-01,Entertainment,Office supplies,0
+EXP000122,Employee_S,13.34,Restaurant ABC,2024-11-08,Meals,Client dinner,0
+EXP000123,Employee_G,95.86,Coffee Shop,2024-12-04,Travel,Business meeting,1
+EXP000124,Employee_N,8.15,Conference Center,2024-12-18,Supplies,Business meeting,0
+EXP000125,Employee_H,59.55,Coffee Shop,2024-12-27,Entertainment,Business meeting,0
+EXP000126,Employee_H,296.03,Coffee Shop,2024-11-16,Travel,Conference,0
+EXP000127,Employee_D,12.3,Office Depot,2024-11-27,Supplies,Client dinner,0
+EXP000128,Employee_C,18.8,Restaurant ABC,2024-03-25,Supplies,Conference,0
+EXP000129,Employee_D,36.59,Conference Center,2024-12-18,Entertainment,Office supplies,0
+EXP000130,Employee_Q,24.56,Conference Center,2024-01-27,Supplies,Business meeting,1
+EXP000131,Employee_C,7.02,Office Depot,2024-12-11,Meals,Office supplies,0
+EXP000132,Employee_S,35.47,Restaurant ABC,2024-03-30,Entertainment,Office supplies,0
+EXP000133,Employee_F,11.45,Taxi Service,2024-11-21,Meals,Conference,0
+EXP000134,Employee_L,53.18,Taxi Service,2024-06-19,Meals,Client dinner,0
+EXP000135,Employee_K,13.2,Taxi Service,2024-12-21,Entertainment,Business meeting,0
+EXP000136,Employee_O,156.01,Hotel XYZ,2024-06-10,Meals,Conference,0
+EXP000137,Employee_Q,15.13,Restaurant ABC,2024-12-02,Entertainment,Conference,0
+EXP000138,Employee_B,24.0,Office Depot,2024-09-22,Entertainment,Conference,0
+EXP000139,Employee_B,74.7,Office Depot,2024-05-16,Supplies,Conference,0
+EXP000140,Employee_P,9.67,Hotel XYZ,2024-01-15,Travel,Client dinner,0
+EXP000141,Employee_J,41.57,Restaurant ABC,2024-10-09,Travel,Business meeting,0
+EXP000142,Employee_O,122.38,Hotel XYZ,2024-11-27,Entertainment,Office supplies,0
+EXP000143,Employee_Q,6.64,Coffee Shop,2024-07-31,Entertainment,Client dinner,0
+EXP000144,Employee_O,39.83,Gas Station,2024-07-15,Travel,Business meeting,0
+EXP000145,Employee_I,42.94,Taxi Service,2024-06-23,Supplies,Business meeting,0
+EXP000146,Employee_J,72.37,Coffee Shop,2024-10-27,Entertainment,Client dinner,0
+EXP000147,Employee_O,9.61,Conference Center,2024-06-25,Entertainment,Conference,0
+EXP000148,Employee_K,8.84,Office Depot,2024-12-23,Entertainment,Client dinner,0
+EXP000149,Employee_N,55.81,Restaurant ABC,2024-06-11,Entertainment,Conference,0
+EXP000150,Employee_E,44.57,Conference Center,2024-01-19,Supplies,Business meeting,0
+EXP000151,Employee_O,42.54,Hotel XYZ,2024-09-26,Meals,Client dinner,0
+EXP000152,Employee_N,46.83,Gas Station,2024-02-08,Supplies,Office supplies,0
+EXP000153,Employee_T,226.92,Taxi Service,2024-11-28,Entertainment,Office supplies,1
+EXP000154,Employee_P,625.47,Restaurant ABC,2024-11-12,Meals,Conference,1
+EXP000155,Employee_D,44.39,Hotel XYZ,2024-08-15,Supplies,Business meeting,0
+EXP000156,Employee_B,16.21,Airline,2024-01-29,Supplies,Conference,0
+EXP000157,Employee_E,213.96,Office Depot,2024-09-28,Travel,Client dinner,0
+EXP000158,Employee_F,53.19,Hotel XYZ,2024-11-08,Travel,Conference,0
+EXP000159,Employee_S,10.06,Gas Station,2024-04-28,Supplies,Conference,0
+EXP000160,Employee_I,63.85,Restaurant ABC,2024-08-26,Travel,Business meeting,0
+EXP000161,Employee_O,12.49,Airline,2024-10-27,Entertainment,Office supplies,0
+EXP000162,Employee_O,72.75,Coffee Shop,2024-04-11,Entertainment,Business meeting,0
+EXP000163,Employee_H,105.49,Taxi Service,2024-10-19,Supplies,Office supplies,0
+EXP000164,Employee_A,42.84,Hotel XYZ,2024-05-31,Supplies,Client dinner,1
+EXP000165,Employee_T,86.78,Airline,2024-04-22,Supplies,Client dinner,0
+EXP000166,Employee_D,50.04,Restaurant ABC,2024-06-07,Meals,Office supplies,0
+EXP000167,Employee_E,75.34,Hotel XYZ,2024-05-31,Entertainment,Client dinner,0
+EXP000168,Employee_G,220.7,Gas Station,2024-10-03,Supplies,Office supplies,0
+EXP000169,Employee_F,25.91,Coffee Shop,2024-09-03,Supplies,Office supplies,0
+EXP000170,Employee_D,15.58,Conference Center,2024-02-08,Travel,Conference,0
+EXP000171,Employee_R,13.61,Airline,2024-02-16,Meals,Office supplies,0
+EXP000172,Employee_R,14.65,Hotel XYZ,2024-08-20,Supplies,Conference,0
+EXP000173,Employee_L,30.66,Hotel XYZ,2024-12-11,Meals,Office supplies,0
+EXP000174,Employee_T,50.0,Office Depot,2024-11-27,Supplies,Conference,1
+EXP000175,Employee_D,43.67,Gas Station,2024-01-24,Supplies,Conference,0
+EXP000176,Employee_D,75.73,Hotel XYZ,2024-04-30,Travel,Conference,0
+EXP000177,Employee_O,33.55,Airline,2024-12-09,Entertainment,Client dinner,0
+EXP000178,Employee_N,141.67,Hotel XYZ,2024-09-07,Supplies,Business meeting,0
+EXP000179,Employee_L,25.42,Office Depot,2024-08-15,Travel,Office supplies,0
+EXP000180,Employee_D,502.79,Airline,2024-10-05,Supplies,Business meeting,0
+EXP000181,Employee_M,61.91,Coffee Shop,2024-04-07,Entertainment,Business meeting,0
+EXP000182,Employee_G,14.05,Restaurant ABC,2024-01-26,Travel,Client dinner,0
+EXP000183,Employee_S,11.35,Office Depot,2024-02-05,Travel,Client dinner,0
+EXP000184,Employee_H,53.65,Airline,2024-03-16,Meals,Office supplies,0
+EXP000185,Employee_E,26.48,Gas Station,2024-10-03,Travel,Business meeting,0
+EXP000186,Employee_A,67.63,Gas Station,2024-01-08,Travel,Office supplies,0
+EXP000187,Employee_A,50.0,Gas Station,2024-05-15,Meals,Business meeting,1
+EXP000188,Employee_P,30.79,Conference Center,2024-07-04,Meals,Conference,0
+EXP000189,Employee_Q,136.04,Office Depot,2024-11-10,Meals,Business meeting,1
+EXP000190,Employee_P,7.28,Taxi Service,2024-08-06,Entertainment,Conference,0
+EXP000191,Employee_C,21.19,Hotel XYZ,2024-06-13,Meals,Client dinner,0
+EXP000192,Employee_I,77.98,Airline,2024-07-14,Supplies,Conference,0
+EXP000193,Employee_Q,41.02,Taxi Service,2024-02-20,Meals,Client dinner,0
+EXP000194,Employee_N,9.53,Conference Center,2024-04-26,Entertainment,Conference,0
+EXP000195,Employee_N,39.38,Hotel XYZ,2024-06-09,Supplies,Office supplies,0
+EXP000196,Employee_E,213.96,Office Depot,2024-09-29,Meals,Office supplies,1
+EXP000197,Employee_E,13.68,Restaurant ABC,2024-10-27,Supplies,Business meeting,0
+EXP000198,Employee_N,38.62,Airline,2024-12-06,Entertainment,Business meeting,0
+EXP000199,Employee_J,35.1,Coffee Shop,2024-06-29,Travel,Client dinner,0
+EXP000200,Employee_P,10.56,Office Depot,2024-02-25,Supplies,Business meeting,0
+EXP000201,Employee_I,47.36,Office Depot,2024-08-07,Meals,Office supplies,0
+EXP000202,Employee_A,58.02,Gas Station,2024-05-19,Supplies,Office supplies,0
+EXP000203,Employee_L,97.81,Restaurant ABC,2024-04-02,Entertainment,Business meeting,0
+EXP000204,Employee_E,94.99,Restaurant ABC,2024-02-16,Travel,Conference,0
+EXP000205,Employee_N,8.35,Conference Center,2024-06-23,Supplies,Office supplies,0
+EXP000206,Employee_S,12.96,Hotel XYZ,2024-01-27,Meals,Business meeting,0
+EXP000207,Employee_I,55.43,Conference Center,2024-12-04,Entertainment,Conference,0
+EXP000208,Employee_I,55.36,Office Depot,2024-09-19,Entertainment,Business meeting,0
+EXP000209,Employee_J,55.43,Conference Center,2024-09-26,Meals,Client dinner,0
+EXP000210,Employee_M,1560.45,Restaurant ABC,2024-01-04,Travel,Client dinner,0
+EXP000211,Employee_I,58.61,Coffee Shop,2024-06-16,Entertainment,Conference,0
+EXP000212,Employee_F,103.09,Gas Station,2024-07-13,Travel,Office supplies,0
+EXP000213,Employee_C,85.97,Taxi Service,2024-01-22,Entertainment,Business meeting,0
+EXP000214,Employee_K,63.52,Taxi Service,2024-10-20,Entertainment,Office supplies,0
+EXP000215,Employee_D,24.16,Taxi Service,2024-01-11,Travel,Conference,0
+EXP000216,Employee_L,70.74,Hotel XYZ,2024-08-11,Travel,Conference,0
+EXP000217,Employee_S,190.48,Taxi Service,2024-09-25,Travel,Office supplies,1
+EXP000218,Employee_F,26.13,Hotel XYZ,2024-09-18,Travel,Office supplies,0
+EXP000219,Employee_L,20.38,Gas Station,2024-04-30,Supplies,Client dinner,0
+EXP000220,Employee_F,40.0,Gas Station,2024-12-01,Entertainment,Conference,1
+EXP000221,Employee_S,335.18,Airline,2024-11-17,Entertainment,Business meeting,0
+EXP000222,Employee_P,5.12,Conference Center,2024-11-19,Supplies,Business meeting,0
+EXP000223,Employee_L,65.78,Hotel XYZ,2024-06-07,Meals,Business meeting,0
+EXP000224,Employee_L,6.6,Coffee Shop,2024-02-09,Meals,Conference,0
+EXP000225,Employee_O,20.66,Restaurant ABC,2024-08-18,Travel,Office supplies,0
+EXP000226,Employee_T,98.39,Conference Center,2024-09-13,Meals,Conference,0
+EXP000227,Employee_D,46.87,Airline,2024-12-31,Entertainment,Conference,1
+EXP000228,Employee_Q,11.27,Gas Station,2024-07-05,Supplies,Conference,0
+EXP000229,Employee_N,16.19,Airline,2024-12-13,Supplies,Business meeting,0
+EXP000230,Employee_K,65.34,Hotel XYZ,2024-10-12,Supplies,Office supplies,0
+EXP000231,Employee_T,188.34,Gas Station,2024-06-19,Entertainment,Client dinner,1
+EXP000232,Employee_T,41.12,Hotel XYZ,2024-06-07,Supplies,Client dinner,0
+EXP000233,Employee_Q,34.66,Hotel XYZ,2024-11-26,Supplies,Business meeting,0
+EXP000234,Employee_L,17.26,Coffee Shop,2024-04-02,Supplies,Conference,0
+EXP000235,Employee_G,282.58,Office Depot,2024-03-11,Supplies,Business meeting,0
+EXP000236,Employee_Q,62.42,Restaurant ABC,2024-12-04,Travel,Conference,0
+EXP000237,Employee_E,4.37,Gas Station,2024-04-02,Travel,Conference,0
+EXP000238,Employee_B,39.9,Taxi Service,2024-07-05,Travel,Conference,0
+EXP000239,Employee_T,17.09,Coffee Shop,2024-08-17,Travel,Office supplies,0
+EXP000240,Employee_P,77.67,Office Depot,2024-07-07,Entertainment,Conference,0
+EXP000241,Employee_J,14.99,Taxi Service,2024-09-14,Travel,Client dinner,0
+EXP000242,Employee_T,30.0,Gas Station,2024-05-08,Supplies,Business meeting,1
+EXP000243,Employee_Q,190.29,Hotel XYZ,2024-05-25,Travel,Conference,1
+EXP000244,Employee_C,78.71,Office Depot,2024-08-18,Meals,Conference,0
+EXP000245,Employee_B,9.97,Taxi Service,2024-09-14,Entertainment,Business meeting,0
+EXP000246,Employee_L,23.7,Office Depot,2024-01-15,Meals,Office supplies,0
+EXP000247,Employee_E,20.6,Gas Station,2024-01-20,Entertainment,Client dinner,0
+EXP000248,Employee_P,10.56,Office Depot,2024-02-26,Travel,Client dinner,1
+EXP000249,Employee_R,193.53,Taxi Service,2024-02-26,Travel,Office supplies,0
+EXP000250,Employee_D,49.65,Restaurant ABC,2024-05-02,Entertainment,Business meeting,0
+EXP000251,Employee_D,9.39,Conference Center,2024-11-01,Travel,Client dinner,0
+EXP000252,Employee_J,82.92,Taxi Service,2024-01-01,Travel,Conference,0
+EXP000253,Employee_F,276.48,Hotel XYZ,2024-09-25,Meals,Business meeting,0
+EXP000254,Employee_M,92.99,Conference Center,2024-01-23,Supplies,Office supplies,0
+EXP000255,Employee_A,7.25,Airline,2024-02-04,Meals,Office supplies,0
+EXP000256,Employee_E,20.4,Restaurant ABC,2024-06-29,Travel,Conference,0
+EXP000257,Employee_P,120.0,Gas Station,2024-03-10,Meals,Office supplies,1
+EXP000258,Employee_G,16.32,Restaurant ABC,2024-04-12,Supplies,Office supplies,0
+EXP000259,Employee_Q,51.62,Taxi Service,2024-10-05,Meals,Client dinner,0
+EXP000260,Employee_J,71.85,Airline,2024-01-25,Supplies,Office supplies,0
+EXP000261,Employee_D,13.11,Airline,2024-08-11,Entertainment,Conference,0
+EXP000262,Employee_K,31.2,Gas Station,2024-09-11,Supplies,Office supplies,0
+EXP000263,Employee_C,1.3,Taxi Service,2024-02-10,Travel,Office supplies,0
+EXP000264,Employee_K,11.89,Hotel XYZ,2024-02-10,Supplies,Office supplies,0
+EXP000265,Employee_O,25.72,Taxi Service,2024-03-26,Supplies,Conference,0
+EXP000266,Employee_B,9.51,Airline,2024-11-10,Supplies,Business meeting,0
+EXP000267,Employee_C,169.43,Taxi Service,2024-07-05,Travel,Business meeting,0
+EXP000268,Employee_E,7.92,Conference Center,2024-01-18,Travel,Office supplies,0
+EXP000269,Employee_L,493.21,Taxi Service,2024-10-17,Supplies,Conference,1
+EXP000270,Employee_C,37.74,Gas Station,2024-09-28,Supplies,Office supplies,0
+EXP000271,Employee_H,139.95,Hotel XYZ,2024-01-14,Entertainment,Conference,0
+EXP000272,Employee_R,7.88,Hotel XYZ,2024-05-14,Entertainment,Client dinner,0
+EXP000273,Employee_T,105.97,Coffee Shop,2024-12-21,Entertainment,Client dinner,0
+EXP000274,Employee_D,33.46,Gas Station,2024-02-07,Entertainment,Business meeting,0
+EXP000275,Employee_K,172.66,Airline,2024-12-29,Travel,Client dinner,1
+EXP000276,Employee_L,52.57,Office Depot,2024-03-03,Travel,Client dinner,0
+EXP000277,Employee_P,40.41,Restaurant ABC,2024-07-03,Supplies,Conference,0
+EXP000278,Employee_R,18.17,Gas Station,2024-11-09,Meals,Office supplies,0
+EXP000279,Employee_M,35.51,Conference Center,2024-09-26,Entertainment,Business meeting,0
+EXP000280,Employee_E,20.0,Airline,2024-11-24,Supplies,Client dinner,1
+EXP000281,Employee_R,37.1,Gas Station,2024-03-07,Meals,Business meeting,0
+EXP000282,Employee_Q,64.21,Gas Station,2024-06-04,Supplies,Client dinner,0
+EXP000283,Employee_L,161.74,Coffee Shop,2024-02-10,Supplies,Client dinner,0
+EXP000284,Employee_J,9.6,Hotel XYZ,2024-09-14,Travel,Client dinner,0
+EXP000285,Employee_T,17.09,Coffee Shop,2024-08-17,Supplies,Client dinner,1
+EXP000286,Employee_S,4.7,Taxi Service,2024-11-12,Entertainment,Office supplies,0
+EXP000287,Employee_J,28.45,Conference Center,2024-05-05,Entertainment,Office supplies,0
+EXP000288,Employee_O,60.0,Hotel XYZ,2024-12-18,Entertainment,Conference,1
+EXP000289,Employee_O,43.86,Office Depot,2024-06-23,Supplies,Office supplies,0
+EXP000290,Employee_L,17.77,Taxi Service,2024-03-07,Meals,Office supplies,0
+EXP000291,Employee_H,26.89,Conference Center,2024-03-03,Travel,Client dinner,0
+EXP000292,Employee_D,20.23,Restaurant ABC,2024-05-28,Entertainment,Client dinner,0
+EXP000293,Employee_F,18.37,Airline,2024-10-22,Travel,Client dinner,0
+EXP000294,Employee_P,77.45,Conference Center,2024-09-12,Entertainment,Business meeting,0
+EXP000295,Employee_C,47.32,Taxi Service,2024-09-15,Travel,Client dinner,0
+EXP000296,Employee_S,20.0,Airline,2024-01-25,Entertainment,Office supplies,1
+EXP000297,Employee_R,81.42,Restaurant ABC,2024-02-25,Supplies,Office supplies,0
+EXP000298,Employee_M,45.03,Airline,2024-01-24,Travel,Office supplies,0
+EXP000299,Employee_R,74.65,Coffee Shop,2024-02-07,Entertainment,Office supplies,0
+EXP000300,Employee_T,62.15,Hotel XYZ,2024-03-06,Entertainment,Office supplies,0
+EXP000301,Employee_K,14.45,Airline,2024-03-14,Entertainment,Business meeting,0
+EXP000302,Employee_B,18.91,Restaurant ABC,2024-03-11,Entertainment,Conference,0
+EXP000303,Employee_E,69.92,Gas Station,2024-06-16,Supplies,Client dinner,0
+EXP000304,Employee_M,60.97,Coffee Shop,2024-10-30,Entertainment,Office supplies,0
+EXP000305,Employee_P,32.43,Restaurant ABC,2024-07-07,Meals,Conference,0
+EXP000306,Employee_S,37.24,Coffee Shop,2024-12-18,Entertainment,Office supplies,0
+EXP000307,Employee_S,118.83,Office Depot,2024-01-27,Travel,Conference,0
+EXP000308,Employee_E,18.33,Office Depot,2024-01-17,Meals,Client dinner,0
+EXP000309,Employee_A,57.23,Conference Center,2024-06-09,Entertainment,Client dinner,0
+EXP000310,Employee_N,27.05,Conference Center,2024-02-01,Travel,Office supplies,0
+EXP000311,Employee_P,26.64,Taxi Service,2024-06-09,Entertainment,Office supplies,0
+EXP000312,Employee_R,99.36,Airline,2024-12-12,Supplies,Conference,0
+EXP000313,Employee_G,75.6,Office Depot,2024-05-22,Travel,Office supplies,0
+EXP000314,Employee_J,74.7,Office Depot,2024-12-19,Supplies,Conference,0
+EXP000315,Employee_L,122.18,Coffee Shop,2024-05-27,Entertainment,Conference,0
+EXP000316,Employee_L,17.77,Taxi Service,2024-03-08,Supplies,Conference,1
+EXP000317,Employee_G,65.49,Office Depot,2024-10-02,Supplies,Client dinner,0
+EXP000318,Employee_D,92.37,Office Depot,2024-05-04,Entertainment,Office supplies,1
+EXP000319,Employee_P,45.79,Hotel XYZ,2024-12-14,Meals,Client dinner,0
+EXP000320,Employee_N,29.07,Conference Center,2024-09-01,Supplies,Office supplies,0
+EXP000321,Employee_J,36.49,Restaurant ABC,2024-02-15,Travel,Business meeting,0
+EXP000322,Employee_F,60.05,Taxi Service,2024-03-31,Meals,Conference,0
+EXP000323,Employee_P,14.61,Gas Station,2024-05-28,Meals,Office supplies,0
+EXP000324,Employee_S,268.38,Hotel XYZ,2024-06-20,Entertainment,Client dinner,0
+EXP000325,Employee_Q,12.11,Conference Center,2024-05-19,Meals,Office supplies,0
+EXP000326,Employee_F,9.83,Conference Center,2024-11-27,Travel,Business meeting,0
+EXP000327,Employee_K,105.44,Coffee Shop,2024-10-17,Travel,Client dinner,0
+EXP000328,Employee_T,73.09,Taxi Service,2024-08-06,Meals,Conference,0
+EXP000329,Employee_D,61.81,Gas Station,2024-03-12,Travel,Business meeting,0
+EXP000330,Employee_I,62.08,Taxi Service,2024-04-30,Supplies,Office supplies,0
+EXP000331,Employee_J,32.71,Restaurant ABC,2024-05-13,Travel,Business meeting,0
+EXP000332,Employee_D,13.5,Conference Center,2024-06-06,Supplies,Business meeting,0
+EXP000333,Employee_J,35.72,Airline,2024-11-10,Travel,Conference,0
+EXP000334,Employee_E,16.82,Conference Center,2024-11-06,Entertainment,Client dinner,0
+EXP000335,Employee_H,87.81,Hotel XYZ,2024-09-26,Supplies,Business meeting,0
+EXP000336,Employee_S,28.59,Hotel XYZ,2024-02-01,Travel,Client dinner,0
+EXP000337,Employee_F,14.51,Airline,2024-09-23,Travel,Conference,0
+EXP000338,Employee_C,24.01,Conference Center,2024-01-29,Entertainment,Conference,0
+EXP000339,Employee_S,50.05,Restaurant ABC,2024-10-13,Supplies,Business meeting,0
+EXP000340,Employee_M,18.85,Coffee Shop,2024-01-02,Meals,Business meeting,0
+EXP000341,Employee_N,16.19,Airline,2024-12-14,Meals,Office supplies,1
+EXP000342,Employee_N,42.25,Gas Station,2024-03-10,Entertainment,Office supplies,0
+EXP000343,Employee_M,42.31,Conference Center,2024-07-12,Travel,Office supplies,0
+EXP000344,Employee_D,19.95,Gas Station,2024-10-02,Travel,Client dinner,0
+EXP000345,Employee_A,20.68,Restaurant ABC,2024-06-01,Entertainment,Conference,0
+EXP000346,Employee_H,41.76,Office Depot,2024-08-23,Supplies,Client dinner,0
+EXP000347,Employee_D,7.78,Restaurant ABC,2024-12-04,Meals,Client dinner,0
+EXP000348,Employee_G,8.11,Hotel XYZ,2024-02-21,Entertainment,Business meeting,0
+EXP000349,Employee_H,16.14,Restaurant ABC,2024-07-24,Travel,Business meeting,0
+EXP000350,Employee_E,26.75,Coffee Shop,2024-04-29,Supplies,Office supplies,0
+EXP000351,Employee_H,45.19,Coffee Shop,2024-03-14,Travel,Conference,0
+EXP000352,Employee_J,144.8,Coffee Shop,2024-02-01,Travel,Conference,0
+EXP000353,Employee_R,78.07,Conference Center,2024-01-25,Entertainment,Office supplies,0
+EXP000354,Employee_N,28.22,Taxi Service,2024-03-17,Travel,Conference,0
+EXP000355,Employee_H,32.49,Office Depot,2024-06-02,Travel,Conference,0
+EXP000356,Employee_B,12.15,Taxi Service,2024-08-01,Travel,Conference,0
+EXP000357,Employee_H,32.51,Coffee Shop,2024-04-14,Meals,Conference,0
+EXP000358,Employee_L,24.81,Hotel XYZ,2024-10-01,Travel,Business meeting,0
+EXP000359,Employee_I,45.73,Taxi Service,2024-12-10,Meals,Business meeting,0
+EXP000360,Employee_G,14.48,Office Depot,2024-09-02,Supplies,Office supplies,0
+EXP000361,Employee_A,55.66,Office Depot,2024-04-07,Meals,Conference,0
+EXP000362,Employee_H,153.35,Office Depot,2024-07-22,Supplies,Office supplies,0
+EXP000363,Employee_M,29.7,Conference Center,2024-09-30,Supplies,Office supplies,0
+EXP000364,Employee_L,50.0,Conference Center,2024-08-26,Supplies,Client dinner,1
+EXP000365,Employee_L,92.11,Airline,2024-07-30,Entertainment,Office supplies,1
+EXP000366,Employee_E,22.17,Office Depot,2024-06-17,Travel,Conference,0
+EXP000367,Employee_R,41.43,Airline,2024-05-11,Entertainment,Conference,0
+EXP000368,Employee_O,33.54,Gas Station,2024-06-29,Entertainment,Client dinner,0
+EXP000369,Employee_R,41.43,Airline,2024-05-11,Meals,Conference,1
+EXP000370,Employee_E,15.29,Office Depot,2024-02-04,Meals,Client dinner,0
+EXP000371,Employee_Q,30.0,Conference Center,2024-07-10,Entertainment,Business meeting,1
+EXP000372,Employee_A,564.37,Taxi Service,2024-01-07,Supplies,Business meeting,1
+EXP000373,Employee_Q,141.34,Taxi Service,2024-04-01,Meals,Client dinner,0
+EXP000374,Employee_H,86.42,Office Depot,2024-11-13,Supplies,Office supplies,0
+EXP000375,Employee_M,285.2,Hotel XYZ,2024-07-10,Entertainment,Client dinner,0
+EXP000376,Employee_H,15.37,Coffee Shop,2024-12-16,Meals,Business meeting,0
+EXP000377,Employee_C,79.23,Taxi Service,2024-07-13,Entertainment,Business meeting,0
+EXP000378,Employee_A,39.78,Gas Station,2024-02-12,Entertainment,Office supplies,0
+EXP000379,Employee_S,295.84,Hotel XYZ,2024-09-27,Travel,Client dinner,0
+EXP000380,Employee_S,295.84,Hotel XYZ,2024-09-28,Meals,Client dinner,1
+EXP000381,Employee_K,14.3,Restaurant ABC,2024-04-16,Entertainment,Business meeting,0
+EXP000382,Employee_J,18.19,Gas Station,2024-10-15,Entertainment,Office supplies,0
+EXP000383,Employee_M,3.96,Gas Station,2024-12-18,Supplies,Business meeting,0
+EXP000384,Employee_D,19.57,Taxi Service,2024-04-28,Supplies,Conference,0
+EXP000385,Employee_K,15.5,Restaurant ABC,2024-11-20,Entertainment,Conference,0
+EXP000386,Employee_H,38.49,Airline,2024-10-10,Entertainment,Client dinner,0
+EXP000387,Employee_S,46.61,Taxi Service,2024-02-13,Supplies,Client dinner,0
+EXP000388,Employee_C,216.19,Hotel XYZ,2024-05-17,Travel,Conference,0
+EXP000389,Employee_K,809.26,Airline,2024-02-24,Supplies,Business meeting,1
+EXP000390,Employee_E,18.6,Hotel XYZ,2024-04-05,Entertainment,Business meeting,0
+EXP000391,Employee_A,13.49,Hotel XYZ,2024-06-30,Supplies,Conference,0
+EXP000392,Employee_A,54.16,Coffee Shop,2024-07-30,Meals,Client dinner,0
+EXP000393,Employee_S,8.84,Gas Station,2024-12-16,Travel,Office supplies,0
+EXP000394,Employee_J,206.74,Coffee Shop,2024-09-09,Travel,Conference,0
+EXP000395,Employee_I,107.71,Taxi Service,2024-06-02,Meals,Office supplies,0
+EXP000396,Employee_I,20.71,Office Depot,2024-11-16,Travel,Conference,0
+EXP000397,Employee_D,10.0,Gas Station,2024-06-04,Supplies,Conference,1
+EXP000398,Employee_K,128.24,Conference Center,2024-06-20,Travel,Office supplies,0
+EXP000399,Employee_K,29.53,Office Depot,2024-09-02,Entertainment,Office supplies,0
+EXP000400,Employee_J,114.18,Conference Center,2024-10-21,Supplies,Conference,0
+EXP000401,Employee_I,6.72,Taxi Service,2024-07-05,Travel,Client dinner,0
+EXP000402,Employee_R,18.19,Restaurant ABC,2024-08-24,Travel,Conference,0
+EXP000403,Employee_J,33.29,Hotel XYZ,2024-07-28,Travel,Office supplies,0
+EXP000404,Employee_H,34.71,Coffee Shop,2024-12-03,Entertainment,Conference,0
+EXP000405,Employee_C,21.11,Conference Center,2024-11-02,Entertainment,Conference,0
+EXP000406,Employee_R,61.73,Restaurant ABC,2024-07-03,Meals,Business meeting,0
+EXP000407,Employee_H,11.39,Airline,2024-03-26,Meals,Conference,0
+EXP000408,Employee_K,207.36,Taxi Service,2024-02-24,Travel,Conference,1
+EXP000409,Employee_L,37.35,Taxi Service,2024-08-25,Travel,Office supplies,0
+EXP000410,Employee_A,55.39,Conference Center,2024-02-23,Meals,Business meeting,0
+EXP000411,Employee_E,67.47,Airline,2024-06-08,Travel,Conference,0
+EXP000412,Employee_L,10.75,Conference Center,2024-02-19,Entertainment,Office supplies,0
+EXP000413,Employee_C,7.14,Coffee Shop,2024-01-23,Meals,Business meeting,0
+EXP000414,Employee_K,118.83,Hotel XYZ,2024-12-12,Travel,Client dinner,0
+EXP000415,Employee_R,46.17,Gas Station,2024-06-18,Entertainment,Client dinner,0
+EXP000416,Employee_M,15.67,Gas Station,2024-04-05,Entertainment,Conference,0
+EXP000417,Employee_A,156.2,Office Depot,2024-08-18,Entertainment,Business meeting,0
+EXP000418,Employee_G,37.18,Office Depot,2024-05-22,Meals,Business meeting,0
+EXP000419,Employee_R,107.69,Gas Station,2024-07-06,Entertainment,Business meeting,0
+EXP000420,Employee_I,35.43,Conference Center,2024-09-27,Supplies,Conference,0
+EXP000421,Employee_T,260.02,Taxi Service,2024-10-27,Supplies,Conference,0
+EXP000422,Employee_T,191.59,Gas Station,2024-12-10,Supplies,Business meeting,0
+EXP000423,Employee_E,25.82,Airline,2024-03-01,Meals,Client dinner,0
+EXP000424,Employee_L,87.49,Gas Station,2024-09-18,Travel,Conference,0
+EXP000425,Employee_N,63.14,Gas Station,2024-09-06,Travel,Client dinner,0
+EXP000426,Employee_P,130.14,Coffee Shop,2024-03-12,Entertainment,Business meeting,0
+EXP000427,Employee_L,12.62,Restaurant ABC,2024-09-05,Entertainment,Conference,0
+EXP000428,Employee_N,65.76,Conference Center,2024-07-31,Entertainment,Conference,0
+EXP000429,Employee_F,184.46,Hotel XYZ,2024-10-16,Travel,Office supplies,1
+EXP000430,Employee_F,5.7,Conference Center,2024-10-16,Entertainment,Business meeting,0
+EXP000431,Employee_S,10.14,Hotel XYZ,2024-05-17,Supplies,Business meeting,0
+EXP000432,Employee_O,4.31,Office Depot,2024-08-05,Travel,Office supplies,0
+EXP000433,Employee_B,25.29,Conference Center,2024-05-14,Meals,Conference,0
+EXP000434,Employee_D,67.87,Office Depot,2024-04-17,Supplies,Conference,0
+EXP000435,Employee_F,148.76,Gas Station,2024-04-15,Meals,Office supplies,0
+EXP000436,Employee_R,35.66,Coffee Shop,2024-11-01,Supplies,Office supplies,0
+EXP000437,Employee_J,168.78,Coffee Shop,2024-09-20,Meals,Client dinner,0
+EXP000438,Employee_N,8.33,Restaurant ABC,2024-05-21,Travel,Client dinner,0
+EXP000439,Employee_H,6.03,Gas Station,2024-12-30,Travel,Conference,0
+EXP000440,Employee_P,31.33,Gas Station,2024-10-22,Entertainment,Conference,0
+EXP000441,Employee_O,48.62,Hotel XYZ,2024-11-20,Meals,Conference,0
+EXP000442,Employee_Q,32.05,Coffee Shop,2024-12-21,Supplies,Conference,0
+EXP000443,Employee_P,31.33,Gas Station,2024-10-23,Supplies,Business meeting,1
+EXP000444,Employee_R,30.29,Taxi Service,2024-04-21,Travel,Conference,0
+EXP000445,Employee_I,8.98,Airline,2024-05-25,Travel,Conference,0
+EXP000446,Employee_K,60.0,Restaurant ABC,2024-01-24,Meals,Business meeting,1
+EXP000447,Employee_F,50.0,Conference Center,2024-08-21,Travel,Client dinner,1
+EXP000448,Employee_J,97.1,Gas Station,2024-05-20,Supplies,Client dinner,1
+EXP000449,Employee_B,19.81,Taxi Service,2024-11-16,Travel,Conference,0
+EXP000450,Employee_C,11.48,Hotel XYZ,2024-01-01,Meals,Client dinner,0
+EXP000451,Employee_S,31.1,Office Depot,2024-09-22,Meals,Business meeting,0
+EXP000452,Employee_K,86.07,Hotel XYZ,2024-08-04,Entertainment,Business meeting,0
+EXP000453,Employee_H,12.36,Taxi Service,2024-02-15,Meals,Business meeting,0
+EXP000454,Employee_K,54.82,Airline,2024-06-02,Travel,Client dinner,0
+EXP000455,Employee_C,19.49,Restaurant ABC,2024-11-08,Entertainment,Office supplies,0
+EXP000456,Employee_G,14.99,Gas Station,2024-07-29,Entertainment,Client dinner,0
+EXP000457,Employee_C,29.75,Hotel XYZ,2024-03-12,Entertainment,Office supplies,0
+EXP000458,Employee_N,11.76,Airline,2024-03-12,Meals,Client dinner,0
+EXP000459,Employee_R,134.32,Coffee Shop,2024-12-19,Travel,Conference,1
+EXP000460,Employee_J,10.0,Restaurant ABC,2024-05-02,Meals,Client dinner,0
+EXP000461,Employee_P,236.21,Hotel XYZ,2024-09-27,Meals,Office supplies,0
+EXP000462,Employee_K,34.3,Gas Station,2024-07-17,Entertainment,Office supplies,0
+EXP000463,Employee_R,16.45,Gas Station,2024-08-29,Meals,Business meeting,0
+EXP000464,Employee_S,41.02,Hotel XYZ,2024-01-08,Meals,Business meeting,0
+EXP000465,Employee_M,29.6,Coffee Shop,2024-11-17,Entertainment,Conference,0
+EXP000466,Employee_M,26.55,Hotel XYZ,2024-11-23,Travel,Office supplies,0
+EXP000467,Employee_C,61.2,Coffee Shop,2024-02-10,Travel,Client dinner,0
+EXP000468,Employee_R,70.63,Airline,2024-07-19,Meals,Office supplies,0
+EXP000469,Employee_N,19.48,Office Depot,2024-01-30,Entertainment,Business meeting,0
+EXP000470,Employee_O,18.62,Restaurant ABC,2024-06-07,Travel,Business meeting,0
+EXP000471,Employee_A,30.0,Gas Station,2024-12-25,Supplies,Office supplies,1
+EXP000472,Employee_F,3.31,Airline,2024-03-05,Supplies,Business meeting,0
+EXP000473,Employee_A,7.28,Airline,2024-08-07,Meals,Office supplies,0
+EXP000474,Employee_S,129.91,Hotel XYZ,2024-09-11,Supplies,Business meeting,0
+EXP000475,Employee_P,171.57,Gas Station,2024-07-07,Meals,Business meeting,0
+EXP000476,Employee_H,25.82,Restaurant ABC,2024-01-23,Meals,Client dinner,0
+EXP000477,Employee_B,58.94,Conference Center,2024-07-05,Travel,Client dinner,0
+EXP000478,Employee_B,45.21,Taxi Service,2024-04-24,Entertainment,Office supplies,0
+EXP000479,Employee_I,719.73,Hotel XYZ,2024-10-19,Meals,Client dinner,0
+EXP000480,Employee_H,100.0,Restaurant ABC,2024-07-24,Supplies,Office supplies,1
+EXP000481,Employee_K,29.14,Hotel XYZ,2024-10-10,Supplies,Client dinner,0
+EXP000482,Employee_J,12.74,Coffee Shop,2024-11-14,Supplies,Conference,0
+EXP000483,Employee_G,10.0,Office Depot,2024-03-18,Meals,Client dinner,1
+EXP000484,Employee_R,40.59,Airline,2024-11-21,Meals,Office supplies,0
+EXP000485,Employee_A,15.54,Taxi Service,2024-06-06,Travel,Conference,0
+EXP000486,Employee_P,7.99,Restaurant ABC,2024-03-13,Meals,Business meeting,0
+EXP000487,Employee_H,17.35,Taxi Service,2024-12-24,Entertainment,Business meeting,0
+EXP000488,Employee_S,11.23,Hotel XYZ,2024-09-15,Entertainment,Business meeting,0
+EXP000489,Employee_S,178.96,Restaurant ABC,2024-08-10,Travel,Client dinner,0
+EXP000490,Employee_J,79.97,Coffee Shop,2024-06-10,Entertainment,Office supplies,0
+EXP000491,Employee_K,32.85,Conference Center,2024-05-19,Travel,Client dinner,0
+EXP000492,Employee_S,145.47,Hotel XYZ,2024-03-20,Entertainment,Conference,0
+EXP000493,Employee_K,35.78,Taxi Service,2024-03-02,Travel,Conference,0
+EXP000494,Employee_J,14.0,Conference Center,2024-05-15,Meals,Client dinner,0
+EXP000495,Employee_J,151.89,Restaurant ABC,2024-04-20,Supplies,Client dinner,0
+EXP000496,Employee_C,56.76,Office Depot,2024-07-01,Meals,Office supplies,0
+EXP000497,Employee_I,11.74,Gas Station,2024-01-16,Entertainment,Client dinner,0
+EXP000498,Employee_D,27.38,Conference Center,2024-02-22,Travel,Business meeting,0
+EXP000499,Employee_A,13.8,Restaurant ABC,2024-04-23,Entertainment,Office supplies,0
+EXP000500,Employee_C,29.75,Hotel XYZ,2024-03-13,Travel,Business meeting,1
+EXP000501,Employee_K,83.61,Hotel XYZ,2024-01-22,Meals,Client dinner,0
+EXP000502,Employee_S,223.5,Taxi Service,2024-07-21,Entertainment,Conference,0
+EXP000503,Employee_F,8.18,Airline,2024-04-19,Supplies,Office supplies,0
+EXP000504,Employee_O,58.15,Gas Station,2024-01-18,Travel,Office supplies,0
+EXP000505,Employee_P,17.28,Taxi Service,2024-10-08,Meals,Office supplies,0
+EXP000506,Employee_M,20.35,Gas Station,2024-08-02,Travel,Business meeting,0
+EXP000507,Employee_M,18.31,Airline,2024-09-02,Entertainment,Office supplies,0
+EXP000508,Employee_S,13.96,Airline,2024-07-17,Meals,Office supplies,0
+EXP000509,Employee_T,34.76,Office Depot,2024-01-16,Supplies,Business meeting,0
+EXP000510,Employee_P,14.43,Airline,2024-10-26,Travel,Business meeting,0
+EXP000511,Employee_H,43.4,Office Depot,2024-05-16,Meals,Client dinner,0
+EXP000512,Employee_S,31.49,Taxi Service,2024-06-30,Travel,Client dinner,0
+EXP000513,Employee_H,26.08,Airline,2024-12-23,Meals,Office supplies,0
+EXP000514,Employee_S,13.36,Gas Station,2024-10-15,Entertainment,Office supplies,0
+EXP000515,Employee_F,92.14,Conference Center,2024-01-20,Entertainment,Business meeting,1
+EXP000516,Employee_K,70.48,Office Depot,2024-03-07,Travel,Office supplies,0
+EXP000517,Employee_B,54.65,Restaurant ABC,2024-03-16,Travel,Business meeting,0
+EXP000518,Employee_Q,12.46,Airline,2024-02-07,Entertainment,Business meeting,0
+EXP000519,Employee_K,36.57,Coffee Shop,2024-06-14,Travel,Conference,0
+EXP000520,Employee_P,70.2,Airline,2024-03-30,Supplies,Client dinner,0
+EXP000521,Employee_S,6.24,Gas Station,2024-07-12,Supplies,Client dinner,0
+EXP000522,Employee_F,57.02,Restaurant ABC,2024-12-25,Entertainment,Business meeting,0
+EXP000523,Employee_F,17.07,Airline,2024-11-09,Meals,Conference,0
+EXP000524,Employee_E,58.59,Airline,2024-02-09,Supplies,Client dinner,0
+EXP000525,Employee_C,96.85,Airline,2024-08-16,Supplies,Office supplies,1
+EXP000526,Employee_D,5.45,Restaurant ABC,2024-01-25,Entertainment,Client dinner,0
+EXP000527,Employee_N,6.5,Conference Center,2024-07-12,Entertainment,Business meeting,0
+EXP000528,Employee_P,34.75,Office Depot,2024-03-24,Meals,Office supplies,0
+EXP000529,Employee_A,42.94,Airline,2024-05-13,Meals,Office supplies,0
+EXP000530,Employee_F,13.41,Taxi Service,2024-03-23,Meals,Office supplies,0
+EXP000531,Employee_T,465.5,Conference Center,2024-12-26,Meals,Office supplies,1
+EXP000532,Employee_G,6.29,Office Depot,2024-07-28,Supplies,Office supplies,0
+EXP000533,Employee_J,30.0,Office Depot,2024-02-19,Travel,Business meeting,1
+EXP000534,Employee_L,10.0,Restaurant ABC,2024-08-06,Travel,Business meeting,1
+EXP000535,Employee_A,17.26,Office Depot,2024-03-28,Meals,Conference,0
+EXP000536,Employee_D,34.72,Coffee Shop,2024-07-22,Supplies,Business meeting,0
+EXP000537,Employee_R,14.01,Taxi Service,2024-04-04,Entertainment,Office supplies,0
+EXP000538,Employee_F,22.54,Conference Center,2024-01-23,Entertainment,Office supplies,0
+EXP000539,Employee_H,17.35,Taxi Service,2024-12-25,Entertainment,Client dinner,1
+EXP000540,Employee_R,18.6,Restaurant ABC,2024-07-17,Entertainment,Conference,0
+EXP000541,Employee_S,76.38,Office Depot,2024-08-31,Entertainment,Business meeting,0
+EXP000542,Employee_Q,10.7,Gas Station,2024-03-02,Entertainment,Client dinner,0
+EXP000543,Employee_F,56.25,Office Depot,2024-04-08,Entertainment,Business meeting,0
+EXP000544,Employee_N,139.99,Office Depot,2024-11-17,Supplies,Office supplies,0
+EXP000545,Employee_C,2.8,Hotel XYZ,2024-07-17,Supplies,Office supplies,0
+EXP000546,Employee_Q,14.93,Conference Center,2024-01-07,Entertainment,Business meeting,0
+EXP000547,Employee_N,58.97,Gas Station,2024-03-16,Meals,Business meeting,0
+EXP000548,Employee_S,27.03,Hotel XYZ,2024-05-26,Supplies,Conference,0
+EXP000549,Employee_I,48.0,Taxi Service,2024-12-01,Entertainment,Business meeting,0
+EXP000550,Employee_F,18.1,Coffee Shop,2024-07-25,Entertainment,Business meeting,0
+EXP000551,Employee_M,36.11,Airline,2024-12-19,Entertainment,Office supplies,0
+EXP000552,Employee_L,28.34,Restaurant ABC,2024-06-21,Supplies,Office supplies,0
+EXP000553,Employee_I,106.46,Conference Center,2024-12-22,Travel,Client dinner,0
+EXP000554,Employee_J,42.71,Conference Center,2024-06-13,Entertainment,Business meeting,0
+EXP000555,Employee_G,46.41,Conference Center,2024-04-18,Entertainment,Conference,0
+EXP000556,Employee_Q,21.94,Airline,2024-01-29,Travel,Business meeting,0
+EXP000557,Employee_J,20.34,Taxi Service,2024-03-10,Meals,Client dinner,0
+EXP000558,Employee_G,21.49,Office Depot,2024-01-30,Entertainment,Business meeting,0
+EXP000559,Employee_L,49.13,Office Depot,2024-05-20,Entertainment,Conference,0
+EXP000560,Employee_D,21.74,Restaurant ABC,2024-05-03,Entertainment,Client dinner,0
+EXP000561,Employee_P,44.25,Airline,2024-06-25,Supplies,Business meeting,0
+EXP000562,Employee_J,96.53,Restaurant ABC,2024-07-16,Travel,Office supplies,1
+EXP000563,Employee_N,96.21,Restaurant ABC,2024-12-15,Meals,Client dinner,1
+EXP000564,Employee_I,23.9,Coffee Shop,2024-12-30,Supplies,Conference,0
+EXP000565,Employee_M,110.08,Airline,2024-08-23,Entertainment,Office supplies,0
+EXP000566,Employee_Q,22.02,Taxi Service,2024-10-26,Supplies,Office supplies,0
+EXP000567,Employee_J,49.16,Hotel XYZ,2024-09-03,Supplies,Office supplies,1
+EXP000568,Employee_J,12.08,Office Depot,2024-03-17,Travel,Business meeting,0
+EXP000569,Employee_T,5.1,Taxi Service,2024-12-04,Travel,Business meeting,0
+EXP000570,Employee_P,23.3,Coffee Shop,2024-05-12,Entertainment,Conference,0
+EXP000571,Employee_B,33.73,Office Depot,2024-06-24,Travel,Conference,0
+EXP000572,Employee_L,177.05,Coffee Shop,2024-03-28,Travel,Office supplies,0
+EXP000573,Employee_D,45.92,Conference Center,2024-03-06,Travel,Office supplies,0
+EXP000574,Employee_C,26.6,Office Depot,2024-06-30,Supplies,Conference,0
+EXP000575,Employee_K,75.9,Airline,2024-05-13,Entertainment,Business meeting,0
+EXP000576,Employee_P,3.63,Restaurant ABC,2024-11-20,Meals,Conference,0
+EXP000577,Employee_G,41.91,Hotel XYZ,2024-12-14,Supplies,Conference,0
+EXP000578,Employee_B,71.58,Gas Station,2024-03-11,Supplies,Conference,0
+EXP000579,Employee_S,7.55,Conference Center,2024-03-14,Travel,Business meeting,0
+EXP000580,Employee_P,103.93,Airline,2024-11-19,Supplies,Business meeting,0
+EXP000581,Employee_A,46.46,Conference Center,2024-05-20,Travel,Client dinner,0
+EXP000582,Employee_P,21.86,Hotel XYZ,2024-03-07,Entertainment,Conference,0
+EXP000583,Employee_N,197.3,Conference Center,2024-07-15,Supplies,Client dinner,1
+EXP000584,Employee_A,320.76,Restaurant ABC,2024-11-16,Travel,Office supplies,0
+EXP000585,Employee_J,39.72,Gas Station,2024-02-22,Supplies,Client dinner,0
+EXP000586,Employee_C,42.45,Restaurant ABC,2024-06-01,Entertainment,Office supplies,0
+EXP000587,Employee_N,20.92,Gas Station,2024-06-24,Entertainment,Office supplies,0
+EXP000588,Employee_G,93.48,Gas Station,2024-07-25,Meals,Client dinner,1
+EXP000589,Employee_D,75.97,Airline,2024-12-30,Meals,Conference,0
+EXP000590,Employee_I,14.07,Restaurant ABC,2024-10-31,Meals,Business meeting,0
+EXP000591,Employee_B,35.57,Hotel XYZ,2024-08-01,Meals,Office supplies,0
+EXP000592,Employee_P,20.54,Gas Station,2024-04-15,Meals,Office supplies,0
+EXP000593,Employee_N,53.46,Hotel XYZ,2024-12-05,Travel,Conference,0
+EXP000594,Employee_D,46.23,Hotel XYZ,2024-05-24,Meals,Conference,0
+EXP000595,Employee_G,93.46,Office Depot,2024-05-14,Travel,Office supplies,0
+EXP000596,Employee_N,20.0,Coffee Shop,2024-03-23,Travel,Conference,1
+EXP000597,Employee_K,70.48,Office Depot,2024-03-08,Travel,Business meeting,1
+EXP000598,Employee_Q,12.44,Hotel XYZ,2024-02-21,Travel,Conference,0
+EXP000599,Employee_J,48.98,Coffee Shop,2024-08-25,Supplies,Office supplies,1
+EXP000600,Employee_N,48.29,Hotel XYZ,2024-02-18,Meals,Business meeting,0
+EXP000601,Employee_E,70.6,Gas Station,2024-06-17,Entertainment,Office supplies,0
+EXP000602,Employee_C,13.17,Airline,2024-06-24,Entertainment,Conference,0
+EXP000603,Employee_O,79.01,Coffee Shop,2024-07-16,Entertainment,Conference,0
+EXP000604,Employee_F,128.46,Hotel XYZ,2024-03-08,Meals,Client dinner,0
+EXP000605,Employee_D,50.07,Taxi Service,2024-10-29,Entertainment,Client dinner,0
+EXP000606,Employee_T,216.33,Taxi Service,2024-07-02,Travel,Conference,0
+EXP000607,Employee_P,15.27,Hotel XYZ,2024-07-29,Meals,Office supplies,0
+EXP000608,Employee_K,9.54,Restaurant ABC,2024-12-26,Travel,Office supplies,0
+EXP000609,Employee_Q,5.59,Hotel XYZ,2024-08-09,Travel,Conference,0
+EXP000610,Employee_L,147.83,Taxi Service,2024-03-17,Meals,Business meeting,0
+EXP000611,Employee_F,63.71,Conference Center,2024-09-10,Meals,Conference,0
+EXP000612,Employee_K,31.32,Office Depot,2024-06-18,Meals,Client dinner,0
+EXP000613,Employee_R,43.81,Taxi Service,2024-07-25,Meals,Conference,0
+EXP000614,Employee_O,10.75,Conference Center,2024-02-15,Entertainment,Office supplies,0
+EXP000615,Employee_D,380.0,Conference Center,2024-11-30,Entertainment,Business meeting,1
+EXP000616,Employee_R,37.68,Restaurant ABC,2024-02-16,Supplies,Client dinner,0
+EXP000617,Employee_O,36.94,Airline,2024-07-05,Travel,Conference,0
+EXP000618,Employee_K,68.43,Conference Center,2024-12-02,Entertainment,Business meeting,0
+EXP000619,Employee_D,53.57,Office Depot,2024-01-02,Supplies,Office supplies,0
+EXP000620,Employee_D,41.42,Restaurant ABC,2024-03-25,Entertainment,Business meeting,0
+EXP000621,Employee_I,15.02,Office Depot,2024-04-06,Entertainment,Client dinner,0
+EXP000622,Employee_O,53.06,Office Depot,2024-06-22,Entertainment,Business meeting,0
+EXP000623,Employee_S,217.46,Hotel XYZ,2024-08-18,Travel,Conference,0
+EXP000624,Employee_A,127.16,Restaurant ABC,2024-10-10,Entertainment,Client dinner,0
+EXP000625,Employee_S,162.91,Gas Station,2024-03-06,Supplies,Conference,0
+EXP000626,Employee_N,19.86,Office Depot,2024-05-20,Supplies,Office supplies,0
+EXP000627,Employee_O,12.31,Gas Station,2024-03-11,Supplies,Office supplies,0
+EXP000628,Employee_R,29.2,Office Depot,2024-04-12,Supplies,Office supplies,0
+EXP000629,Employee_E,35.01,Gas Station,2024-09-14,Supplies,Business meeting,0
+EXP000630,Employee_L,98.91,Conference Center,2024-10-25,Entertainment,Office supplies,0
+EXP000631,Employee_N,6.1,Restaurant ABC,2024-09-24,Entertainment,Client dinner,0
+EXP000632,Employee_B,152.86,Restaurant ABC,2024-04-12,Travel,Office supplies,0
+EXP000633,Employee_I,28.28,Gas Station,2024-02-01,Supplies,Client dinner,0
+EXP000634,Employee_R,21.61,Restaurant ABC,2024-07-02,Meals,Client dinner,0
+EXP000635,Employee_R,12.04,Taxi Service,2024-05-01,Supplies,Business meeting,0
+EXP000636,Employee_M,6.33,Taxi Service,2024-08-01,Supplies,Business meeting,0
+EXP000637,Employee_A,75.43,Coffee Shop,2024-04-13,Entertainment,Client dinner,0
+EXP000638,Employee_L,35.63,Office Depot,2024-04-09,Travel,Business meeting,0
+EXP000639,Employee_F,9.12,Gas Station,2024-09-20,Meals,Conference,0
+EXP000640,Employee_I,9.07,Coffee Shop,2024-03-07,Supplies,Business meeting,0
+EXP000641,Employee_K,23.67,Conference Center,2024-12-29,Meals,Client dinner,0
+EXP000642,Employee_K,175.74,Restaurant ABC,2024-11-16,Supplies,Conference,0
+EXP000643,Employee_S,25.54,Airline,2024-02-07,Supplies,Client dinner,0
+EXP000644,Employee_F,7.37,Hotel XYZ,2024-09-15,Entertainment,Business meeting,0
+EXP000645,Employee_L,25.9,Office Depot,2024-04-19,Supplies,Office supplies,0
+EXP000646,Employee_J,25.21,Office Depot,2024-11-12,Meals,Business meeting,0
+EXP000647,Employee_L,2.23,Conference Center,2024-05-03,Travel,Business meeting,0
+EXP000648,Employee_K,31.37,Taxi Service,2024-02-28,Supplies,Business meeting,0
+EXP000649,Employee_Q,26.29,Airline,2024-09-20,Entertainment,Conference,0
+EXP000650,Employee_B,66.43,Coffee Shop,2024-11-29,Meals,Business meeting,0
+EXP000651,Employee_F,489.25,Restaurant ABC,2024-11-16,Travel,Conference,1
+EXP000652,Employee_C,102.16,Gas Station,2024-01-13,Supplies,Business meeting,0
+EXP000653,Employee_C,25.31,Hotel XYZ,2024-01-28,Supplies,Business meeting,0
+EXP000654,Employee_S,10.95,Office Depot,2024-05-12,Entertainment,Conference,0
+EXP000655,Employee_N,434.14,Airline,2024-01-09,Meals,Business meeting,0
+EXP000656,Employee_T,5.1,Taxi Service,2024-12-04,Supplies,Office supplies,1
+EXP000657,Employee_T,33.58,Hotel XYZ,2024-05-24,Entertainment,Conference,0
+EXP000658,Employee_M,32.33,Restaurant ABC,2024-08-30,Travel,Client dinner,0
+EXP000659,Employee_M,40.37,Coffee Shop,2024-11-20,Supplies,Business meeting,0
+EXP000660,Employee_R,30.0,Gas Station,2024-03-04,Meals,Office supplies,1
+EXP000661,Employee_G,18.66,Airline,2024-04-18,Travel,Client dinner,0
+EXP000662,Employee_F,19.17,Office Depot,2024-11-11,Travel,Business meeting,0
+EXP000663,Employee_F,32.05,Restaurant ABC,2024-10-08,Meals,Office supplies,0
+EXP000664,Employee_C,19.23,Coffee Shop,2024-02-20,Entertainment,Office supplies,0
+EXP000665,Employee_L,16.23,Gas Station,2024-12-09,Meals,Office supplies,0
+EXP000666,Employee_T,36.83,Hotel XYZ,2024-04-09,Entertainment,Office supplies,0
+EXP000667,Employee_T,25.66,Coffee Shop,2024-12-21,Supplies,Office supplies,0
+EXP000668,Employee_N,149.01,Gas Station,2024-01-03,Travel,Conference,0
+EXP000669,Employee_I,2.34,Airline,2024-03-09,Supplies,Conference,0
+EXP000670,Employee_O,98.64,Conference Center,2024-07-02,Entertainment,Business meeting,0
+EXP000671,Employee_F,115.13,Hotel XYZ,2024-05-23,Travel,Client dinner,0
+EXP000672,Employee_I,4.16,Hotel XYZ,2024-02-08,Meals,Conference,0
+EXP000673,Employee_S,23.51,Office Depot,2024-01-19,Entertainment,Client dinner,0
+EXP000674,Employee_L,22.84,Taxi Service,2024-04-24,Supplies,Client dinner,0
+EXP000675,Employee_O,8.11,Hotel XYZ,2024-07-22,Meals,Client dinner,0
+EXP000676,Employee_T,15.21,Gas Station,2024-09-20,Travel,Client dinner,0
+EXP000677,Employee_S,10.91,Gas Station,2024-09-04,Meals,Client dinner,0
+EXP000678,Employee_P,191.0,Office Depot,2024-02-02,Travel,Business meeting,0
+EXP000679,Employee_G,84.41,Airline,2024-07-17,Entertainment,Business meeting,0
+EXP000680,Employee_B,118.1,Airline,2024-02-22,Supplies,Office supplies,0
+EXP000681,Employee_S,68.15,Gas Station,2024-07-11,Supplies,Business meeting,0
+EXP000682,Employee_Q,10.71,Coffee Shop,2024-07-11,Travel,Conference,0
+EXP000683,Employee_L,19.6,Airline,2024-09-06,Meals,Client dinner,0
+EXP000684,Employee_O,384.36,Gas Station,2024-04-27,Travel,Client dinner,1
+EXP000685,Employee_L,9.76,Hotel XYZ,2024-12-04,Supplies,Business meeting,0
+EXP000686,Employee_P,67.56,Conference Center,2024-09-02,Travel,Conference,0
+EXP000687,Employee_A,26.04,Office Depot,2024-01-23,Travel,Client dinner,0
+EXP000688,Employee_Q,22.76,Restaurant ABC,2024-10-20,Travel,Office supplies,0
+EXP000689,Employee_F,67.42,Taxi Service,2024-11-02,Meals,Office supplies,0
+EXP000690,Employee_C,51.64,Office Depot,2024-08-17,Entertainment,Conference,0
+EXP000691,Employee_F,23.08,Office Depot,2024-07-29,Travel,Office supplies,0
+EXP000692,Employee_F,105.57,Airline,2024-08-20,Meals,Client dinner,0
+EXP000693,Employee_M,11.23,Taxi Service,2024-03-08,Travel,Conference,0
+EXP000694,Employee_E,61.31,Hotel XYZ,2024-03-31,Meals,Business meeting,0
+EXP000695,Employee_C,59.93,Conference Center,2024-12-03,Meals,Conference,0
+EXP000696,Employee_Q,24.3,Taxi Service,2024-07-08,Entertainment,Client dinner,0
+EXP000697,Employee_P,45.88,Taxi Service,2024-06-28,Meals,Conference,0
+EXP000698,Employee_E,9.48,Coffee Shop,2024-09-01,Meals,Office supplies,0
+EXP000699,Employee_T,83.43,Taxi Service,2024-05-11,Meals,Business meeting,0
+EXP000700,Employee_Q,27.53,Restaurant ABC,2024-07-11,Supplies,Conference,0
+EXP000701,Employee_L,19.63,Hotel XYZ,2024-03-20,Supplies,Office supplies,0
+EXP000702,Employee_R,94.54,Taxi Service,2024-10-16,Supplies,Conference,0
+EXP000703,Employee_G,16.37,Taxi Service,2024-10-09,Entertainment,Client dinner,0
+EXP000704,Employee_L,8.1,Conference Center,2024-05-09,Supplies,Conference,0
+EXP000705,Employee_E,6.98,Hotel XYZ,2024-04-27,Travel,Business meeting,0
+EXP000706,Employee_G,60.7,Taxi Service,2024-06-22,Meals,Client dinner,0
+EXP000707,Employee_M,9.2,Restaurant ABC,2024-02-16,Entertainment,Conference,0
+EXP000708,Employee_C,191.48,Hotel XYZ,2024-05-14,Meals,Business meeting,0
+EXP000709,Employee_M,4.13,Taxi Service,2024-11-10,Supplies,Business meeting,0
+EXP000710,Employee_F,1254.92,Conference Center,2024-08-12,Travel,Client dinner,1
+EXP000711,Employee_B,40.9,Airline,2024-05-02,Travel,Business meeting,0
+EXP000712,Employee_I,30.06,Taxi Service,2024-06-29,Entertainment,Client dinner,0
+EXP000713,Employee_Q,27.53,Restaurant ABC,2024-07-12,Supplies,Office supplies,1
+EXP000714,Employee_I,49.36,Office Depot,2024-11-06,Entertainment,Conference,0
+EXP000715,Employee_S,31.89,Restaurant ABC,2024-05-13,Meals,Business meeting,0
+EXP000716,Employee_Q,99.81,Coffee Shop,2024-06-23,Supplies,Office supplies,0
+EXP000717,Employee_O,37.12,Taxi Service,2024-10-15,Travel,Office supplies,0
+EXP000718,Employee_O,38.49,Conference Center,2024-10-27,Entertainment,Business meeting,0
+EXP000719,Employee_I,23.02,Hotel XYZ,2024-07-14,Travel,Client dinner,0
+EXP000720,Employee_K,31.28,Taxi Service,2024-06-29,Meals,Office supplies,0
+EXP000721,Employee_H,45.05,Coffee Shop,2024-02-17,Supplies,Business meeting,0
+EXP000722,Employee_R,5.99,Gas Station,2024-08-31,Travel,Office supplies,0
+EXP000723,Employee_F,8.6,Office Depot,2024-09-12,Travel,Client dinner,0
+EXP000724,Employee_I,69.63,Office Depot,2024-04-27,Travel,Office supplies,0
+EXP000725,Employee_E,39.29,Hotel XYZ,2024-03-02,Entertainment,Business meeting,0
+EXP000726,Employee_R,27.55,Restaurant ABC,2024-09-03,Supplies,Conference,0
+EXP000727,Employee_S,33.73,Coffee Shop,2024-09-08,Supplies,Conference,0
+EXP000728,Employee_H,46.88,Gas Station,2024-01-28,Entertainment,Conference,0
+EXP000729,Employee_R,19.3,Restaurant ABC,2024-09-14,Travel,Conference,0
+EXP000730,Employee_D,15.21,Conference Center,2024-06-10,Meals,Client dinner,0
+EXP000731,Employee_M,40.28,Hotel XYZ,2024-06-15,Supplies,Client dinner,0
+EXP000732,Employee_R,12.45,Coffee Shop,2024-05-01,Supplies,Office supplies,0
+EXP000733,Employee_F,49.81,Conference Center,2024-08-05,Supplies,Office supplies,0
+EXP000734,Employee_M,6.03,Coffee Shop,2024-08-18,Travel,Client dinner,0
+EXP000735,Employee_D,92.68,Coffee Shop,2024-04-30,Entertainment,Client dinner,0
+EXP000736,Employee_E,53.12,Gas Station,2024-08-30,Travel,Conference,0
+EXP000737,Employee_P,42.78,Gas Station,2024-11-18,Supplies,Conference,0
+EXP000738,Employee_J,88.47,Coffee Shop,2024-10-14,Meals,Conference,0
+EXP000739,Employee_D,175.12,Gas Station,2024-01-31,Supplies,Conference,0
+EXP000740,Employee_D,91.32,Conference Center,2024-06-20,Supplies,Office supplies,0
+EXP000741,Employee_L,5.25,Restaurant ABC,2024-07-29,Travel,Client dinner,0
+EXP000742,Employee_J,9.21,Airline,2024-06-15,Entertainment,Conference,0
+EXP000743,Employee_C,17.73,Taxi Service,2024-11-10,Travel,Client dinner,0
+EXP000744,Employee_K,33.99,Taxi Service,2024-11-19,Entertainment,Business meeting,0
+EXP000745,Employee_C,55.57,Gas Station,2024-06-24,Supplies,Office supplies,0
+EXP000746,Employee_I,16.03,Taxi Service,2024-05-18,Supplies,Conference,0
+EXP000747,Employee_N,39.92,Gas Station,2024-04-04,Travel,Client dinner,0
+EXP000748,Employee_I,15.56,Hotel XYZ,2024-04-17,Meals,Business meeting,0
+EXP000749,Employee_C,20.0,Conference Center,2024-10-07,Meals,Business meeting,1
+EXP000750,Employee_I,8.11,Gas Station,2024-02-13,Entertainment,Office supplies,0
+EXP000751,Employee_H,13.15,Office Depot,2024-05-25,Travel,Client dinner,0
+EXP000752,Employee_Q,116.58,Gas Station,2024-01-15,Supplies,Conference,1
+EXP000753,Employee_O,12.48,Coffee Shop,2024-10-07,Travel,Conference,0
+EXP000754,Employee_S,94.98,Taxi Service,2024-09-25,Supplies,Office supplies,0
+EXP000755,Employee_P,12.81,Office Depot,2024-02-15,Supplies,Conference,0
+EXP000756,Employee_I,188.01,Gas Station,2024-06-04,Meals,Conference,1
+EXP000757,Employee_P,54.23,Coffee Shop,2024-01-05,Supplies,Client dinner,0
+EXP000758,Employee_A,39.84,Airline,2024-04-06,Entertainment,Conference,0
+EXP000759,Employee_H,14.04,Gas Station,2024-11-26,Entertainment,Client dinner,0
+EXP000760,Employee_I,66.71,Hotel XYZ,2024-08-04,Supplies,Office supplies,0
+EXP000761,Employee_R,18.62,Coffee Shop,2024-07-30,Meals,Client dinner,0
+EXP000762,Employee_E,37.41,Coffee Shop,2024-02-26,Entertainment,Office supplies,0
+EXP000763,Employee_T,428.41,Conference Center,2024-04-06,Travel,Business meeting,0
+EXP000764,Employee_R,30.08,Restaurant ABC,2024-04-05,Supplies,Office supplies,0
+EXP000765,Employee_E,104.51,Conference Center,2024-01-05,Travel,Business meeting,0
+EXP000766,Employee_P,16.39,Office Depot,2024-06-24,Entertainment,Office supplies,0
+EXP000767,Employee_O,46.93,Restaurant ABC,2024-06-18,Entertainment,Business meeting,1
+EXP000768,Employee_R,194.57,Conference Center,2024-04-02,Supplies,Conference,0
+EXP000769,Employee_A,17.69,Hotel XYZ,2024-12-31,Entertainment,Client dinner,0
+EXP000770,Employee_B,202.85,Office Depot,2024-08-23,Meals,Client dinner,0
+EXP000771,Employee_P,67.21,Taxi Service,2024-12-14,Supplies,Client dinner,0
+EXP000772,Employee_B,18.87,Hotel XYZ,2024-05-09,Supplies,Client dinner,0
+EXP000773,Employee_L,62.33,Restaurant ABC,2024-12-07,Meals,Client dinner,0
+EXP000774,Employee_N,87.58,Airline,2024-01-08,Supplies,Business meeting,0
+EXP000775,Employee_M,61.67,Office Depot,2024-01-05,Entertainment,Client dinner,0
+EXP000776,Employee_L,6.89,Hotel XYZ,2024-05-07,Meals,Office supplies,0
+EXP000777,Employee_B,16.0,Restaurant ABC,2024-07-01,Meals,Client dinner,0
+EXP000778,Employee_P,25.85,Office Depot,2024-06-11,Supplies,Conference,0
+EXP000779,Employee_G,30.74,Restaurant ABC,2024-12-18,Travel,Office supplies,0
+EXP000780,Employee_B,61.6,Conference Center,2024-12-27,Supplies,Conference,0
+EXP000781,Employee_G,39.56,Gas Station,2024-10-05,Entertainment,Office supplies,0
+EXP000782,Employee_T,8.71,Gas Station,2024-02-05,Entertainment,Office supplies,0
+EXP000783,Employee_I,50.0,Airline,2024-08-20,Travel,Business meeting,1
+EXP000784,Employee_T,60.98,Airline,2024-11-13,Meals,Conference,0
+EXP000785,Employee_G,57.96,Conference Center,2024-10-09,Supplies,Office supplies,0
+EXP000786,Employee_N,149.01,Gas Station,2024-01-03,Travel,Business meeting,1
+EXP000787,Employee_G,76.24,Hotel XYZ,2024-09-05,Meals,Conference,0
+EXP000788,Employee_P,52.41,Coffee Shop,2024-01-26,Meals,Business meeting,0
+EXP000789,Employee_G,30.87,Conference Center,2024-02-10,Meals,Office supplies,0
+EXP000790,Employee_R,6.29,Taxi Service,2024-07-07,Meals,Office supplies,0
+EXP000791,Employee_Q,50.89,Restaurant ABC,2024-02-06,Meals,Client dinner,0
+EXP000792,Employee_Q,40.76,Hotel XYZ,2024-02-21,Entertainment,Client dinner,0
+EXP000793,Employee_G,43.45,Office Depot,2024-10-18,Travel,Conference,0
+EXP000794,Employee_D,9.24,Airline,2024-12-11,Entertainment,Business meeting,0
+EXP000795,Employee_F,11.23,Gas Station,2024-10-08,Supplies,Client dinner,0
+EXP000796,Employee_R,94.93,Conference Center,2024-06-29,Supplies,Office supplies,0
+EXP000797,Employee_N,31.83,Taxi Service,2024-06-14,Travel,Conference,0
+EXP000798,Employee_R,65.46,Coffee Shop,2024-07-03,Entertainment,Conference,0
+EXP000799,Employee_A,34.07,Restaurant ABC,2024-05-25,Travel,Office supplies,0
+EXP000800,Employee_A,34.12,Coffee Shop,2024-04-23,Supplies,Business meeting,0
+EXP000801,Employee_I,555.26,Gas Station,2024-02-18,Supplies,Office supplies,1
+EXP000802,Employee_S,19.77,Office Depot,2024-04-29,Supplies,Business meeting,0
+EXP000803,Employee_S,36.46,Taxi Service,2024-10-18,Meals,Office supplies,0
+EXP000804,Employee_P,20.86,Gas Station,2024-09-06,Meals,Office supplies,0
+EXP000805,Employee_B,21.45,Taxi Service,2024-02-10,Supplies,Office supplies,0
+EXP000806,Employee_N,24.31,Taxi Service,2024-03-02,Travel,Business meeting,0
+EXP000807,Employee_M,41.35,Restaurant ABC,2024-06-05,Supplies,Client dinner,0
+EXP000808,Employee_K,20.0,Office Depot,2024-03-19,Entertainment,Business meeting,1
+EXP000809,Employee_H,116.25,Taxi Service,2024-05-28,Travel,Client dinner,0
+EXP000810,Employee_K,13.54,Hotel XYZ,2024-08-31,Meals,Conference,0
+EXP000811,Employee_I,27.47,Hotel XYZ,2024-07-23,Travel,Client dinner,0
+EXP000812,Employee_P,21.33,Office Depot,2024-09-06,Travel,Client dinner,0
+EXP000813,Employee_H,140.75,Hotel XYZ,2024-05-16,Supplies,Business meeting,0
+EXP000814,Employee_D,40.31,Taxi Service,2024-08-04,Travel,Office supplies,0
+EXP000815,Employee_L,92.93,Restaurant ABC,2024-06-05,Supplies,Conference,0
+EXP000816,Employee_T,96.8,Gas Station,2024-08-13,Travel,Business meeting,1
+EXP000817,Employee_D,43.25,Restaurant ABC,2024-05-04,Travel,Office supplies,0
+EXP000818,Employee_A,80.61,Airline,2024-12-21,Supplies,Conference,0
+EXP000819,Employee_P,35.96,Restaurant ABC,2024-06-18,Travel,Client dinner,0
+EXP000820,Employee_R,96.11,Coffee Shop,2024-10-07,Travel,Business meeting,0
+EXP000821,Employee_M,19.74,Restaurant ABC,2024-05-10,Supplies,Client dinner,0
+EXP000822,Employee_T,135.55,Coffee Shop,2024-01-28,Meals,Business meeting,0
+EXP000823,Employee_M,329.94,Coffee Shop,2024-12-05,Supplies,Business meeting,0
+EXP000824,Employee_A,23.04,Coffee Shop,2024-11-28,Entertainment,Business meeting,0
+EXP000825,Employee_K,21.21,Conference Center,2024-11-01,Travel,Client dinner,0
+EXP000826,Employee_Q,141.65,Conference Center,2024-10-14,Meals,Business meeting,0
+EXP000827,Employee_H,160.71,Coffee Shop,2024-06-19,Travel,Business meeting,0
+EXP000828,Employee_L,19.63,Airline,2024-06-30,Travel,Office supplies,0
+EXP000829,Employee_B,21.75,Coffee Shop,2024-07-17,Meals,Office supplies,0
+EXP000830,Employee_H,24.98,Gas Station,2024-06-23,Travel,Business meeting,0
+EXP000831,Employee_M,8.63,Office Depot,2024-08-01,Travel,Conference,0
+EXP000832,Employee_J,13.21,Airline,2024-08-17,Travel,Client dinner,0
+EXP000833,Employee_S,12.13,Office Depot,2024-03-11,Travel,Conference,0
+EXP000834,Employee_E,53.12,Gas Station,2024-08-31,Travel,Business meeting,1
+EXP000835,Employee_K,31.99,Taxi Service,2024-07-29,Supplies,Client dinner,0
+EXP000836,Employee_G,41.86,Hotel XYZ,2024-03-08,Supplies,Client dinner,0
+EXP000837,Employee_T,156.1,Office Depot,2024-04-28,Supplies,Business meeting,0
+EXP000838,Employee_P,12.2,Gas Station,2024-09-14,Entertainment,Office supplies,0
+EXP000839,Employee_F,88.62,Taxi Service,2024-09-08,Travel,Client dinner,0
+EXP000840,Employee_H,26.74,Restaurant ABC,2024-07-28,Meals,Office supplies,0
+EXP000841,Employee_N,31.52,Office Depot,2024-12-09,Travel,Business meeting,0
+EXP000842,Employee_F,65.03,Conference Center,2024-11-11,Supplies,Conference,0
+EXP000843,Employee_H,10.78,Taxi Service,2024-07-26,Entertainment,Office supplies,0
+EXP000844,Employee_M,48.54,Restaurant ABC,2024-09-23,Entertainment,Business meeting,0
+EXP000845,Employee_H,39.11,Taxi Service,2024-01-21,Meals,Client dinner,0
+EXP000846,Employee_J,54.19,Conference Center,2024-07-22,Supplies,Conference,0
+EXP000847,Employee_F,44.22,Taxi Service,2024-05-30,Meals,Client dinner,0
+EXP000848,Employee_O,385.79,Conference Center,2024-02-16,Meals,Client dinner,0
+EXP000849,Employee_S,17.5,Gas Station,2024-07-20,Entertainment,Business meeting,0
+EXP000850,Employee_F,19.47,Conference Center,2024-10-29,Travel,Conference,0
+EXP000851,Employee_C,17.76,Coffee Shop,2024-06-14,Travel,Business meeting,0
+EXP000852,Employee_C,19.0,Hotel XYZ,2024-12-27,Supplies,Business meeting,0
+EXP000853,Employee_Q,17.51,Taxi Service,2024-09-18,Travel,Conference,0
+EXP000854,Employee_R,108.75,Taxi Service,2024-01-23,Supplies,Client dinner,0
+EXP000855,Employee_F,137.07,Gas Station,2024-04-01,Meals,Conference,0
+EXP000856,Employee_J,18.71,Coffee Shop,2024-08-16,Travel,Business meeting,0
+EXP000857,Employee_E,14.41,Office Depot,2024-01-02,Supplies,Business meeting,0
+EXP000858,Employee_O,53.06,Conference Center,2024-09-12,Meals,Conference,0
+EXP000859,Employee_H,19.06,Office Depot,2024-10-28,Entertainment,Conference,0
+EXP000860,Employee_O,62.36,Hotel XYZ,2024-11-03,Travel,Office supplies,0
+EXP000861,Employee_T,40.57,Office Depot,2024-01-26,Meals,Office supplies,0
+EXP000862,Employee_B,7.27,Gas Station,2024-01-17,Supplies,Office supplies,0
+EXP000863,Employee_C,155.63,Restaurant ABC,2024-02-25,Travel,Client dinner,0
+EXP000864,Employee_J,199.51,Gas Station,2024-08-21,Supplies,Business meeting,0
+EXP000865,Employee_C,17.94,Coffee Shop,2024-06-14,Entertainment,Business meeting,0
+EXP000866,Employee_N,22.47,Hotel XYZ,2024-05-29,Meals,Office supplies,0
+EXP000867,Employee_K,44.07,Taxi Service,2024-09-25,Travel,Business meeting,0
+EXP000868,Employee_D,46.27,Hotel XYZ,2024-09-04,Supplies,Conference,0
+EXP000869,Employee_T,63.98,Airline,2024-05-12,Supplies,Client dinner,0
+EXP000870,Employee_T,247.2,Conference Center,2024-09-23,Entertainment,Conference,0
+EXP000871,Employee_F,27.74,Office Depot,2024-12-28,Travel,Business meeting,0
+EXP000872,Employee_D,14.91,Restaurant ABC,2024-08-26,Meals,Client dinner,0
+EXP000873,Employee_T,88.44,Taxi Service,2024-07-30,Travel,Business meeting,1
+EXP000874,Employee_G,15.94,Coffee Shop,2024-05-10,Supplies,Office supplies,0
+EXP000875,Employee_Q,32.04,Airline,2024-01-04,Supplies,Office supplies,0
+EXP000876,Employee_M,199.25,Restaurant ABC,2024-03-30,Supplies,Conference,0
+EXP000877,Employee_P,19.73,Restaurant ABC,2024-11-26,Travel,Conference,0
+EXP000878,Employee_R,41.42,Airline,2024-08-24,Entertainment,Business meeting,0
+EXP000879,Employee_Q,32.58,Coffee Shop,2024-10-16,Supplies,Business meeting,0
+EXP000880,Employee_G,195.77,Airline,2024-06-30,Supplies,Conference,1
+EXP000881,Employee_R,414.44,Gas Station,2024-10-19,Travel,Business meeting,0
+EXP000882,Employee_J,20.0,Airline,2024-12-29,Meals,Conference,1
+EXP000883,Employee_H,20.3,Airline,2024-08-19,Supplies,Client dinner,0
+EXP000884,Employee_Q,94.08,Coffee Shop,2024-03-30,Meals,Client dinner,0
+EXP000885,Employee_C,70.0,Conference Center,2024-09-16,Travel,Client dinner,1
+EXP000886,Employee_K,209.92,Conference Center,2024-09-25,Supplies,Client dinner,0
+EXP000887,Employee_D,59.38,Gas Station,2024-04-15,Entertainment,Conference,0
+EXP000888,Employee_Q,23.12,Hotel XYZ,2024-01-03,Meals,Business meeting,0
+EXP000889,Employee_K,59.78,Conference Center,2024-01-24,Supplies,Business meeting,0
+EXP000890,Employee_S,100.35,Coffee Shop,2024-11-23,Supplies,Client dinner,0
+EXP000891,Employee_G,75.22,Coffee Shop,2024-05-21,Entertainment,Business meeting,0
+EXP000892,Employee_I,55.0,Gas Station,2024-03-21,Meals,Business meeting,0
+EXP000893,Employee_G,96.22,Airline,2024-10-08,Travel,Office supplies,0
+EXP000894,Employee_S,1109.46,Office Depot,2024-03-28,Meals,Client dinner,1
+EXP000895,Employee_A,130.0,Conference Center,2024-12-11,Meals,Business meeting,1
+EXP000896,Employee_N,63.35,Taxi Service,2024-04-01,Entertainment,Office supplies,0
+EXP000897,Employee_J,28.02,Airline,2024-04-11,Meals,Conference,0
+EXP000898,Employee_S,38.35,Gas Station,2024-02-17,Entertainment,Business meeting,0
+EXP000899,Employee_O,110.67,Coffee Shop,2024-12-16,Entertainment,Conference,0
+EXP000900,Employee_H,14.63,Office Depot,2024-03-14,Supplies,Office supplies,0
+EXP000901,Employee_M,47.88,Gas Station,2024-12-24,Supplies,Office supplies,0
+EXP000902,Employee_O,62.36,Hotel XYZ,2024-11-04,Entertainment,Client dinner,1
+EXP000903,Employee_J,34.08,Airline,2024-11-05,Meals,Conference,0
+EXP000904,Employee_D,118.92,Airline,2024-10-11,Supplies,Conference,0
+EXP000905,Employee_M,40.09,Taxi Service,2024-05-02,Travel,Conference,0
+EXP000906,Employee_M,34.69,Hotel XYZ,2024-06-23,Entertainment,Conference,0
+EXP000907,Employee_S,8.5,Airline,2024-10-05,Travel,Business meeting,0
+EXP000908,Employee_S,69.84,Conference Center,2024-02-28,Entertainment,Office supplies,0
+EXP000909,Employee_R,63.15,Hotel XYZ,2024-08-15,Entertainment,Business meeting,0
+EXP000910,Employee_T,288.08,Hotel XYZ,2024-12-16,Entertainment,Office supplies,0
+EXP000911,Employee_P,24.34,Restaurant ABC,2024-02-16,Travel,Business meeting,0
+EXP000912,Employee_E,41.23,Gas Station,2024-08-19,Entertainment,Conference,0
+EXP000913,Employee_G,42.49,Office Depot,2024-12-14,Supplies,Office supplies,0
+EXP000914,Employee_N,160.37,Airline,2024-02-15,Entertainment,Client dinner,0
+EXP000915,Employee_J,30.11,Restaurant ABC,2024-07-08,Meals,Business meeting,0
+EXP000916,Employee_R,43.77,Airline,2024-02-26,Meals,Client dinner,0
+EXP000917,Employee_N,60.82,Taxi Service,2024-11-16,Entertainment,Conference,0
+EXP000918,Employee_M,39.91,Taxi Service,2024-10-06,Travel,Conference,0
+EXP000919,Employee_E,21.19,Office Depot,2024-10-11,Supplies,Conference,0
+EXP000920,Employee_E,40.21,Coffee Shop,2024-12-09,Meals,Business meeting,0
+EXP000921,Employee_A,96.9,Gas Station,2024-09-06,Travel,Business meeting,0
+EXP000922,Employee_E,11.86,Taxi Service,2024-08-21,Entertainment,Client dinner,0
+EXP000923,Employee_O,37.82,Taxi Service,2024-10-09,Entertainment,Office supplies,0
+EXP000924,Employee_H,16.44,Gas Station,2024-08-05,Entertainment,Client dinner,0
+EXP000925,Employee_Q,109.4,Coffee Shop,2024-07-29,Supplies,Business meeting,0
+EXP000926,Employee_B,7.22,Conference Center,2024-12-26,Entertainment,Business meeting,0
+EXP000927,Employee_E,18.94,Coffee Shop,2024-08-26,Meals,Client dinner,0
+EXP000928,Employee_P,48.29,Hotel XYZ,2024-12-16,Supplies,Business meeting,0
+EXP000929,Employee_K,158.46,Restaurant ABC,2024-08-28,Entertainment,Office supplies,0
+EXP000930,Employee_N,31.01,Airline,2024-05-30,Meals,Office supplies,0
+EXP000931,Employee_S,19.01,Coffee Shop,2024-02-01,Travel,Business meeting,0
+EXP000932,Employee_J,217.27,Restaurant ABC,2024-05-26,Travel,Business meeting,0
+EXP000933,Employee_I,7.78,Coffee Shop,2024-03-08,Supplies,Office supplies,0
+EXP000934,Employee_A,3.67,Hotel XYZ,2024-11-05,Travel,Conference,0
+EXP000935,Employee_L,51.42,Gas Station,2024-05-13,Travel,Conference,0
+EXP000936,Employee_F,20.04,Restaurant ABC,2024-06-24,Travel,Client dinner,0
+EXP000937,Employee_P,11.93,Taxi Service,2024-07-15,Entertainment,Client dinner,0
+EXP000938,Employee_G,67.25,Airline,2024-01-28,Meals,Business meeting,0
+EXP000939,Employee_F,42.26,Conference Center,2024-07-23,Entertainment,Client dinner,0
+EXP000940,Employee_M,18.84,Taxi Service,2024-08-30,Entertainment,Business meeting,0
+EXP000941,Employee_J,9.2,Conference Center,2024-07-14,Meals,Business meeting,0
+EXP000942,Employee_R,79.24,Airline,2024-08-09,Supplies,Office supplies,0
+EXP000943,Employee_I,63.45,Coffee Shop,2024-02-20,Entertainment,Conference,0
+EXP000944,Employee_H,29.99,Office Depot,2024-09-23,Travel,Office supplies,0
+EXP000945,Employee_R,63.15,Hotel XYZ,2024-08-16,Meals,Business meeting,1
+EXP000946,Employee_O,11.36,Airline,2024-04-22,Supplies,Client dinner,0
+EXP000947,Employee_B,48.48,Restaurant ABC,2024-11-13,Meals,Business meeting,1
+EXP000948,Employee_T,16.58,Gas Station,2024-07-11,Travel,Business meeting,0
+EXP000949,Employee_F,31.64,Coffee Shop,2024-05-30,Meals,Conference,0
+EXP000950,Employee_I,42.24,Taxi Service,2024-12-20,Supplies,Office supplies,0
+EXP000951,Employee_F,26.02,Hotel XYZ,2024-05-21,Entertainment,Conference,0
+EXP000952,Employee_K,47.09,Restaurant ABC,2024-05-12,Supplies,Client dinner,0
+EXP000953,Employee_O,9.47,Hotel XYZ,2024-09-08,Travel,Conference,0
+EXP000954,Employee_F,140.3,Conference Center,2024-02-25,Entertainment,Client dinner,0
+EXP000955,Employee_T,30.5,Hotel XYZ,2024-08-14,Meals,Business meeting,0
+EXP000956,Employee_C,101.22,Hotel XYZ,2024-10-19,Entertainment,Business meeting,0
+EXP000957,Employee_P,46.65,Gas Station,2024-11-30,Meals,Conference,0
+EXP000958,Employee_I,52.29,Gas Station,2024-12-24,Entertainment,Business meeting,0
+EXP000959,Employee_Q,58.54,Conference Center,2024-09-01,Meals,Client dinner,0
+EXP000960,Employee_A,51.82,Taxi Service,2024-12-18,Entertainment,Business meeting,0
+EXP000961,Employee_S,62.97,Airline,2024-06-19,Entertainment,Business meeting,0
+EXP000962,Employee_C,125.1,Airline,2024-09-30,Supplies,Business meeting,0
+EXP000963,Employee_O,40.31,Coffee Shop,2024-11-27,Meals,Conference,0
+EXP000964,Employee_G,67.29,Coffee Shop,2024-12-22,Meals,Office supplies,0
+EXP000965,Employee_P,30.27,Hotel XYZ,2024-11-19,Travel,Client dinner,0
+EXP000966,Employee_B,139.79,Office Depot,2024-01-13,Travel,Conference,0
+EXP000967,Employee_M,16.84,Hotel XYZ,2024-10-03,Entertainment,Conference,0
+EXP000968,Employee_A,3.67,Hotel XYZ,2024-11-05,Travel,Conference,1
+EXP000969,Employee_R,31.81,Gas Station,2024-10-23,Meals,Business meeting,0
+EXP000970,Employee_E,40.21,Coffee Shop,2024-12-09,Meals,Client dinner,1
+EXP000971,Employee_B,37.64,Coffee Shop,2024-02-19,Travel,Business meeting,0
+EXP000972,Employee_D,16.76,Hotel XYZ,2024-09-11,Travel,Business meeting,0
+EXP000973,Employee_G,76.76,Taxi Service,2024-06-21,Entertainment,Office supplies,0
+EXP000974,Employee_D,17.24,Gas Station,2024-06-13,Travel,Business meeting,0
+EXP000975,Employee_S,135.94,Gas Station,2024-06-20,Entertainment,Client dinner,1
+EXP000976,Employee_L,5.01,Gas Station,2024-08-12,Meals,Client dinner,0
+EXP000977,Employee_D,20.0,Taxi Service,2024-03-21,Meals,Business meeting,1
+EXP000978,Employee_A,2.93,Gas Station,2024-02-15,Supplies,Conference,0
+EXP000979,Employee_P,6.79,Gas Station,2024-04-15,Supplies,Conference,0
+EXP000980,Employee_N,70.84,Office Depot,2024-03-30,Meals,Client dinner,0
+EXP000981,Employee_P,72.66,Hotel XYZ,2024-11-17,Supplies,Office supplies,0
+EXP000982,Employee_N,50.68,Restaurant ABC,2024-10-12,Meals,Business meeting,0
+EXP000983,Employee_T,12.59,Airline,2024-10-03,Entertainment,Client dinner,0
+EXP000984,Employee_I,31.57,Restaurant ABC,2024-04-09,Travel,Conference,0
+EXP000985,Employee_P,33.0,Gas Station,2024-03-22,Meals,Business meeting,0
+EXP000986,Employee_L,10.4,Coffee Shop,2024-04-17,Supplies,Conference,0
+EXP000987,Employee_B,148.92,Hotel XYZ,2024-01-27,Travel,Client dinner,0
+EXP000988,Employee_A,79.63,Conference Center,2024-09-20,Travel,Conference,0
+EXP000989,Employee_S,26.55,Airline,2024-08-02,Supplies,Client dinner,0
+EXP000990,Employee_D,30.0,Airline,2024-04-26,Travel,Conference,1
+EXP000991,Employee_H,40.79,Hotel XYZ,2024-08-29,Meals,Conference,0
+EXP000992,Employee_E,4.3,Office Depot,2024-11-08,Entertainment,Office supplies,0
+EXP000993,Employee_E,25.86,Conference Center,2024-04-09,Supplies,Client dinner,0
+EXP000994,Employee_K,16.74,Gas Station,2024-01-17,Meals,Office supplies,0
+EXP000995,Employee_E,12.16,Hotel XYZ,2024-08-26,Travel,Office supplies,0
+EXP000996,Employee_H,25.0,Coffee Shop,2024-11-05,Travel,Client dinner,0
+EXP000997,Employee_C,199.87,Taxi Service,2024-09-24,Travel,Conference,0
+EXP000998,Employee_O,62.86,Coffee Shop,2024-01-08,Travel,Client dinner,0
+EXP000999,Employee_K,18.71,Taxi Service,2024-10-23,Travel,Business meeting,0
+EXP001000,Employee_N,58.71,Restaurant ABC,2024-01-21,Meals,Conference,0
